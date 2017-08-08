@@ -1,0 +1,20 @@
+/*------------- #LANDING --------------*/
+
+
+.landing-content {
+  color: $white-color;
+  margin-bottom: 30px;
+
+  & > *:first-child {
+	font-weight: 300;
+  }
+
+  & > *:last-child {
+	margin-bottom: 0;
+  }
+
+  & > * {
+	color: inherit;
+	margin-bottom: 45px;
+  }
+}

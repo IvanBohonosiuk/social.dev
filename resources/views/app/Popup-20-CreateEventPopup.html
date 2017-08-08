@@ -1,0 +1,177 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+
+	<title>Window Popup - Create Event Popup</title>
+
+	<!-- Required meta tags always come first -->
+	<meta charset="utf-8">
+	<meta name="viewport" content="width=700, initial-scale=1">
+	<meta http-equiv="x-ua-compatible" content="ie=edge">
+
+	<!-- Bootstrap CSS -->
+	<link rel="stylesheet" type="text/css" href="Bootstrap/dist/css/bootstrap-reboot.css">
+	<link rel="stylesheet" type="text/css" href="Bootstrap/dist/css/bootstrap.css">
+	<link rel="stylesheet" type="text/css" href="Bootstrap/dist/css/bootstrap-grid.css">
+
+	<!-- Theme Styles CSS -->
+	<link rel="stylesheet" type="text/css" href="css/theme-styles.css">
+	<link rel="stylesheet" type="text/css" href="css/blocks.css">
+
+	<!-- Main Font -->
+	<script src="js/webfontloader.min.js"></script>
+	<script>
+		WebFont.load({
+			google: {
+				families: ['Roboto:300,400,500,700:latin']
+			}
+		});
+	</script>
+
+	<link rel="stylesheet" type="text/css" href="css/fonts.css">
+
+	<!-- Styles for plugins -->
+	<link rel="stylesheet" type="text/css" href="css/jquery.mCustomScrollbar.min.css">
+	<link rel='stylesheet' href='css/fullcalendar.css'/>
+	<link rel='stylesheet' href='css/simplecalendar.css'/>
+	<link rel="stylesheet" type="text/css" href="css/bootstrap-select.css">
+
+
+</head>
+
+<body class="overlay-enable">
+
+
+<div class="ui-block window-popup create-event open">
+	<a href="" class="icon-close js-close-popup">
+		<svg class="olymp-close-icon"><use xlink:href="icons/icons.svg#olymp-close-icon"></use></svg>
+	</a>
+
+	<div class="ui-block-title">
+		<h6 class="title">Create an Event</h6>
+	</div>
+
+	<div class="ui-block-content">
+		<form>
+
+			<div class="form-group label-floating is-select">
+				<label class="control-label">Event Type</label>
+				<select class="selectpicker form-control">
+					<option value="MA">Private Event</option>
+					<option value="FE">Default Event</option>
+				</select>
+			</div>
+
+			<div class="form-group with-button">
+				<input class="form-control" placeholder="" value="Event Image (770x380px min)" type="text">
+
+				<button class="bg-grey">
+					<svg class="olymp-computer-icon"><use xlink:href="icons/icons.svg#olymp-computer-icon"></use></svg>
+				</button>
+
+			</div>
+
+			<div class="form-group label-floating">
+				<label class="control-label">Event Name</label>
+				<input class="form-control" placeholder="" type="text" value="Breakfast at the Agency">
+			</div>
+
+			<div class="form-group label-floating">
+				<label class="control-label">Event Location</label>
+				<input class="form-control" placeholder="" type="text" value="">
+			</div>
+
+			<div class="form-group date-time-picker label-floating">
+				<label class="control-label">Event Date</label>
+				<input name="datetimepicker" value="26/03/2016" />
+				<span class="input-group-addon">
+					<svg class="olymp-calendar-icon"><use xlink:href="icons/icons.svg#olymp-calendar-icon"></use></svg>
+				</span>
+			</div>
+
+			<div class="row">
+				<div class="col-lg-3 col-md-3 col-sm-12 col-xs-12">
+					<div class="form-group label-floating">
+						<label class="control-label">Event Time</label>
+						<input class="form-control" placeholder="" type="text" value="09:00">
+					</div>
+				</div>
+				<div class="col-lg-3 col-md-3 col-sm-12 col-xs-12">
+					<div class="form-group label-floating is-select">
+						<label class="control-label">AM-PM</label>
+						<select class="selectpicker form-control">
+							<option value="MA">AM</option>
+							<option value="FE">PM</option>
+						</select>
+					</div>
+				</div>
+				<div class="col-lg-6 col-md-6 col-sm-12 col-xs-12">
+					<div class="form-group label-floating is-select">
+						<label class="control-label">Timezone</label>
+						<select class="selectpicker form-control">
+							<option value="MA">US (UTC-8)</option>
+							<option value="FE">UK (UTC-0)</option>
+						</select>
+					</div>
+				</div>
+
+			</div>
+
+			<div class="checkbox">
+				<label>
+					<input name="optionsCheckboxes" type="checkbox">
+					Add Event End Time
+				</label>
+			</div>
+
+			<div class="form-group label-floating">
+				<label class="control-label">Event Description</label>
+					<textarea class="form-control" placeholder="">Hi Guys! I propose to go a litle earlier at the agency to have breakfast and talk a little more about the new design project we have been working on. Cheers!
+					</textarea>
+			</div>
+
+			<div class="form-group label-floating is-select">
+				<label class="control-label">Invite Friends</label>
+				<select class="selectpicker form-control">
+					<option value="MB" selected>Mathilda Brinker,</option>
+					<option value="NG" selected>Nicholas Grissom</option>
+					<option value="TS">Tony Stevens</option>
+				</select>
+			</div>
+
+			<button class="btn btn-breez btn-lg full-width">Create Event</button>
+
+		</form>
+	</div>
+
+
+
+</div>
+
+
+
+<!-- jQuery first, then Other JS. -->
+<script src="js/jquery-3.2.0.min.js"></script>
+<!-- Js effects for material design. + Tooltips -->
+<script src="js/material.min.js"></script>
+<!-- Helper scripts (Tabs, Equal height, Scrollbar, etc) -->
+<script src="js/theme-plugins.js"></script>
+<!-- Init functions -->
+<script src="js/main.js"></script>
+
+<!-- Select / Sorting script -->
+<script src="js/selectize.min.js"></script>
+
+<!-- Swiper / Sliders -->
+<script src="js/swiper.jquery.min.js"></script>
+
+<!-- Datepicker input field script-->
+<script src="js/moment.min.js"></script>
+<script src="js/daterangepicker.min.js"></script>
+
+<!-- Calendar events script -->
+<script src="js/fullcalendar.js"></script>
+
+
+</body>
+</html>

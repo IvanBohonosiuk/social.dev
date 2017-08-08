@@ -1,0 +1,68 @@
+/*------------- #MAIN-HEADER --------------*/
+
+
+.main-header {
+  padding: 70px 0 190px 0;
+  max-width: calc(100% - 140px);
+  margin: 0 auto 30px;
+  position: relative;
+}
+
+.img-bottom {
+  position: absolute;
+  bottom: 0;
+  left: 50%;
+  transform: translate(-50%, 0);
+  max-width: 100%;
+}
+
+.bg-account {
+  background-image: url("../img/top-header3.png");
+}
+
+.bg-birthday {
+  background-image: url("../img/top-header6.png");
+}
+
+.bg-badges {
+  background-image: url("../img/top-header4.png");
+}
+
+.bg-events {
+  background-image: url("../img/top-header5.png");
+}
+
+.bg-weather {
+  background-image: url("../img/top-header6.png");
+}
+
+.bg-group {
+  background-image: url("../img/bg-group.png");
+}
+
+.bg-music {
+  background-image: url("../img/top-header7.png");
+}
+
+.bg-landing {
+  background-image: url("../img/landing-bg.jpg");
+}
+
+.main-header-content {
+  color: $white-color;
+  text-align: center;
+
+  & > * {
+	color: inherit;
+  }
+
+  & > *:first-child {
+	font-weight: 300;
+	margin-bottom: 20px;
+  }
+
+  p {
+	font-weight: 400;
+	margin-bottom: 0;
+  }
+}
