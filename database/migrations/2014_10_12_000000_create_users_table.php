@@ -22,7 +22,7 @@ class CreateUsersTable extends Migration
 			$table->string('api_token', 60)->unique();
 			$table->string('status')->default('online');
 			$table->timestamp('update_status');
-			$table->string('avatar');
+			$table->string('gender');
 			$table->string('avatar');
             $table->string('cover');
             $table->date('birthday');
