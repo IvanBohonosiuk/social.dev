@@ -14,5 +14,5 @@ npm run dev
 ```
 
 ```
-php srtisan storage:link
+php artisan storage:link
 ```
