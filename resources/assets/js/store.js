@@ -7,6 +7,7 @@ export const store = new Vuex.Store({
     state: {
         nots_user_request: [],
         posts: [],
+        feeds: [],
         auth_user: {},
         user_request_friends: []
     },
@@ -19,6 +20,9 @@ export const store = new Vuex.Store({
         },
         all_posts(state) {
             return state.posts
+        },
+        all_feeds(state) {
+            return state.feeds
         },
         all_user_request_friends(state) {
             return state.user_request_friends

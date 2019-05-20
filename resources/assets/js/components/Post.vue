@@ -13,14 +13,14 @@
                 </div>
                 <div class="add-options-message">
                     <a href="#" class="js-open-popup options-message" data-popup-target=".update-header-photo" data-toggle="tooltip" data-placement="top" title="" data-original-title="ADD PHOTOS">
-                        <svg class="olymp-camera-icon"><use xlink:href="/icons/icons.svg#olymp-camera-icon"></use></svg>
+                        <svg class="olymp-camera-icon"><use xlink:href="/public/icons/icons.svg#olymp-camera-icon"></use></svg>
                     </a>
                     <a href="#" class="options-message" data-toggle="tooltip" data-placement="top" title="" data-original-title="TAG YOUR FRIENDS">
-                        <svg class="olymp-computer-icon"><use xlink:href="/icons/icons.svg#olymp-computer-icon"></use></svg>
+                        <svg class="olymp-computer-icon"><use xlink:href="/public/icons/icons.svg#olymp-computer-icon"></use></svg>
                     </a>
 
                     <a href="#" class="options-message" data-toggle="tooltip" data-placement="top" title="" data-original-title="ADD LOCATION">
-                        <svg class="olymp-small-pin-icon"><use xlink:href="/icons/icons.svg#olymp-small-pin-icon"></use></svg>
+                        <svg class="olymp-small-pin-icon"><use xlink:href="/public/icons/icons.svg#olymp-small-pin-icon"></use></svg>
                     </a>
 
                     <button class="btn btn-primary btn-md-2" :disabled="not_working" @click="create_post()">Post Status</button>

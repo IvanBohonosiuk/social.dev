@@ -175,7 +175,7 @@ return [
 		// IDE helper
 		Barryvdh\LaravelIdeHelper\IdeHelperServiceProvider::class,
 		// Laravel Passport
-		Laravel\Passport\PassportServiceProvider::class,
+//		Laravel\Passport\PassportServiceProvider::class,
 
         /*
          * Application Service Providers...

@@ -13,7 +13,7 @@
     <meta name="csrf-token" content="{{ csrf_token() }}">
 
     <!-- Main Font -->
-    <script src="/js/webfontloader.min.js"></script>
+    <script src="{{ url('js/webfontloader.min.js') }}"></script>
     <script>
         WebFont.load({
             google: {
@@ -26,9 +26,9 @@
     </script>
 
     <!-- Bootstrap CSS -->
-    <link rel="stylesheet" type="text/css" href="/css/bootstrap-reboot.css">
-    <link rel="stylesheet" type="text/css" href="/css/bootstrap.css">
-    <link rel="stylesheet" type="text/css" href="/css/bootstrap-grid.css">
+    <link rel="stylesheet" type="text/css" href="{{ url('css/bootstrap-reboot.css') }}">
+    <link rel="stylesheet" type="text/css" href="{{ url('css/bootstrap.css') }}">
+    <link rel="stylesheet" type="text/css" href="{{ url('css/bootstrap-grid.css') }}">
 
     {{--<!-- Theme Styles CSS -->--}}
     {{--<link rel="stylesheet" type="text/css" href="/css/theme-styles.css">--}}
@@ -37,9 +37,9 @@
     <link rel="stylesheet" type="text/css" href="{{ mix('css/app.css') }}">
 
     <!-- Styles for plugins -->
-    <link rel="stylesheet" type="text/css" href="/css/jquery.mCustomScrollbar.min.css">
+    <link rel="stylesheet" type="text/css" href="{{ url('css/jquery.mCustomScrollbar.min.css') }}">
     <!-- Lightbox popup script-->
-    <link rel="stylesheet" type="text/css" href="/css/magnific-popup.css">
+    <link rel="stylesheet" type="text/css" href="{{ url('css/magnific-popup.css') }}">
 
     @yield('styles')
 
@@ -75,19 +75,19 @@
 
 
     <!-- jQuery first, then Other JS. -->
-    <script src="/js/jquery-3.2.0.min.js"></script>
+    <script src="{{ url('js/jquery-3.2.0.min.js') }}"></script>
     <!-- Js effects for material design. + Tooltips -->
-    <script src="/js/material.min.js"></script>
+    <script src="{{ url('js/material.min.js') }}"></script>
     <!-- Helper scripts (Tabs, Equal height, Scrollbar, etc) -->
-    <script src="/js/theme-plugins.js"></script>
+    <script src="{{ url('js/theme-plugins.js') }}"></script>
     <!-- Init functions -->
-    <script src="/js/main.js"></script>
+    <script src="{{ url('js/main.js') }}"></script>
 
     <!-- Select / Sorting script -->
-    <script src="/js/selectize.min.js"></script>
+    <script src="{{ url('js/selectize.min.js') }}"></script>
 
     <!-- Lightbox popup script-->
-    <script src="/js/jquery.magnific-popup.min.js"></script>
+    <script src="{{ url('js/jquery.magnific-popup.min.js') }}"></script>
 
     @yield('scripts')
 

@@ -26,9 +26,9 @@ require('./main');
  * or customize the JavaScript scaffolding to fit your unique needs.
  */
 
-Vue.component('passport-clients', require('./components/passport/Clients.vue'));
-Vue.component('passport-authorized-clients', require('./components/passport/AuthorizedClients.vue'));
-Vue.component('passport-personal-access-tokens', require('./components/passport/PersonalAccessTokens.vue'));
+// Vue.component('passport-clients', require('./components/passport/Clients.vue'));
+// Vue.component('passport-authorized-clients', require('./components/passport/AuthorizedClients.vue'));
+// Vue.component('passport-personal-access-tokens', require('./components/passport/PersonalAccessTokens.vue'));
 Vue.component('init', require('./components/Init.vue'));
 Vue.component('nots', require('./components/Nots.vue'));
 Vue.component('online', require('./components/UserStatus.vue'));
@@ -38,6 +38,8 @@ Vue.component('accept_friend_nots', require('./components/AcceptFriendNots.vue')
 Vue.component('like', require('./components/Like.vue'));
 Vue.component('post', require('./components/Post.vue'));
 Vue.component('profile-feed', require('./components/ProfileFeed.vue'));
+// Vue.component('all_feeds', require('./components/AllFeeds.vue'));
+Vue.component('all_feeds', require('./components/AllFeeds.vue'));
 
 import { store } from './store';
 

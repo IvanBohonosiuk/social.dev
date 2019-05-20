@@ -33,7 +33,7 @@
 									</li>
 									<li>
 										<div class="more">
-											<svg class="olymp-three-dots-icon"><use xlink:href="/icons/icons.svg#olymp-three-dots-icon"></use></svg>
+											<svg class="olymp-three-dots-icon"><use xlink:href="{{ url('/public/icons/icons.svg') }}#olymp-three-dots-icon"></use></svg>
 											<ul class="more-dropdown more-with-triangle">
 												<li>
 													<a href="#">Report Profile</a>
@@ -50,20 +50,20 @@
 
 						<div class="control-block-button">
 							{{--<a href="35-YourAccount-FriendsRequests.html" class="btn btn-control bg-blue">--}}
-								{{--<svg class="olymp-happy-face-icon"><use xlink:href="/icons/icons.svg#olymp-happy-face-icon"></use></svg>--}}
+								{{--<svg class="olymp-happy-face-icon"><use xlink:href="{{ url('/public/icons/icons.svg') }}#olymp-happy-face-icon"></use></svg>--}}
 							{{--</a>--}}
 							@if(Auth::check())
 								@if(Auth::id() !== $user->id)
 									<friend :profile_user_id="{{ $user->id }}"></friend>
 
 									<a href="#" class="btn btn-control bg-purple js-open-popup" data-popup-target=".popup-chat-responsive">
-										<svg class="olymp-chat---messages-icon"><use xlink:href="/icons/icons.svg#olymp-chat---messages-icon"></use></svg>
+										<svg class="olymp-chat---messages-icon"><use xlink:href="{{ url('/public/icons/icons.svg') }}#olymp-chat---messages-icon"></use></svg>
 									</a>
 								@endif
 
 								@if(Auth::user()->id === $user->id)
 									<div class="btn btn-control bg-primary more">
-										<svg class="olymp-settings-icon"><use xlink:href="/icons/icons.svg#olymp-settings-icon"></use></svg>
+										<svg class="olymp-settings-icon"><use xlink:href="{{ url('/public/icons/icons.svg') }}#olymp-settings-icon"></use></svg>
 
 										<ul class="more-dropdown more-with-triangle triangle-bottom-right">
 											<li>

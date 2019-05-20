@@ -25,18 +25,18 @@
                         <ul class="nav nav-tabs photo-gallery" role="tablist">
                             <li class="nav-item">
                                 <a class="nav-link active" data-toggle="tab" href="#photo-page" role="tab">
-                                    <svg class="olymp-photos-icon"><use xlink:href="/icons/icons.svg#olymp-photos-icon"></use></svg>
+                                    <svg class="olymp-photos-icon"><use xlink:href="/public/icons/icons.svg#olymp-photos-icon"></use></svg>
                                 </a>
                             </li>
 
                             <li class="nav-item">
                                 <a class="nav-link" data-toggle="tab" href="#album-page" role="tab">
-                                    <svg class="olymp-albums-icon"><use xlink:href="/icons/icons.svg#olymp-albums-icon"></use></svg>
+                                    <svg class="olymp-albums-icon"><use xlink:href="/public/icons/icons.svg#olymp-albums-icon"></use></svg>
                                 </a>
                             </li>
 
                         </ul>
-                        <a href="#" class="more"><svg class="olymp-three-dots-icon"><use xlink:href="/icons/icons.svg#olymp-three-dots-icon"></use></svg></a>
+                        <a href="#" class="more"><svg class="olymp-three-dots-icon"><use xlink:href="/public/icons/icons.svg#olymp-three-dots-icon"></use></svg></a>
                     </div>
                 </div>
             </div>
@@ -55,9 +55,9 @@
                             <div class="photo-item half-width">
                                 <img src="/img/photo-item1.jpg" alt="photo">
                                 <div class="overlay overlay-dark"></div>
-                                <a href="#" class="more"><svg class="olymp-three-dots-icon"><use xlink:href="/icons/icons.svg#olymp-three-dots-icon"></use></svg></a>
+                                <a href="#" class="more"><svg class="olymp-three-dots-icon"><use xlink:href="/public/icons/icons.svg#olymp-three-dots-icon"></use></svg></a>
                                 <a href="#" class="post-add-icon inline-items">
-                                    <svg class="olymp-heart-icon"><use xlink:href="/icons/icons.svg#olymp-heart-icon"></use></svg>
+                                    <svg class="olymp-heart-icon"><use xlink:href="/public/icons/icons.svg#olymp-heart-icon"></use></svg>
                                     <span>15</span>
                                 </a>
                                 <a href="#" data-popup-target=".open-photo-popup-v1" class="js-open-popup full-block"></a>
@@ -70,9 +70,9 @@
                             <div class="photo-item col-4-width">
                                 <img src="/img/photo-item11.jpg" alt="photo">
                                 <div class="overlay overlay-dark"></div>
-                                <a href="#" class="more"><svg class="olymp-three-dots-icon"><use xlink:href="/icons/icons.svg#olymp-three-dots-icon"></use></svg></a>
+                                <a href="#" class="more"><svg class="olymp-three-dots-icon"><use xlink:href="/public/icons/icons.svg#olymp-three-dots-icon"></use></svg></a>
                                 <a href="#" class="post-add-icon inline-items">
-                                    <svg class="olymp-heart-icon"><use xlink:href="/icons/icons.svg#olymp-heart-icon"></use></svg>
+                                    <svg class="olymp-heart-icon"><use xlink:href="/public/icons/icons.svg#olymp-heart-icon"></use></svg>
                                     <span>15</span>
                                 </a>
                                 <a href="#" data-popup-target=".open-photo-popup-v2" class="js-open-popup full-block"></a>
@@ -82,7 +82,7 @@
                                 </div>
                             </div>
 
-                            <a href="#" class="btn btn-control btn-more"><svg class="olymp-three-dots-icon"><use xlink:href="/icons/icons.svg#olymp-three-dots-icon"></use></svg></a>
+                            <a href="#" class="btn btn-control btn-more"><svg class="olymp-three-dots-icon"><use xlink:href="/public/icons/icons.svg#olymp-three-dots-icon"></use></svg></a>
 
                         </div>
 
@@ -102,7 +102,7 @@
                                             <div class="content">
 
                                                 <a href="#" class="js-open-popup btn btn-control bg-primary" data-popup-target=".create-photo-album">
-                                                    <svg class="olymp-plus-icon"><use xlink:href="/icons/icons.svg#olymp-plus-icon"></use></svg>
+                                                    <svg class="olymp-plus-icon"><use xlink:href="/public/icons/icons.svg#olymp-plus-icon"></use></svg>
                                                 </a>
 
                                                 <a href="#" class="js-open-popup title h5" data-popup-target=".create-photo-album">Create an Album</a>
@@ -120,9 +120,9 @@
                                     <div class="photo-item">
                                         <img src="/img/photo-item2.jpg" alt="photo">
                                         <div class="overlay overlay-dark"></div>
-                                        <a href="#" class="more"><svg class="olymp-three-dots-icon"><use xlink:href="/icons/icons.svg#olymp-three-dots-icon"></use></svg></a>
+                                        <a href="#" class="more"><svg class="olymp-three-dots-icon"><use xlink:href="/public/icons/icons.svg#olymp-three-dots-icon"></use></svg></a>
                                         <a href="#" class="post-add-icon">
-                                            <svg class="olymp-heart-icon"><use xlink:href="/icons/icons.svg#olymp-heart-icon"></use></svg>
+                                            <svg class="olymp-heart-icon"><use xlink:href="/public/icons/icons.svg#olymp-heart-icon"></use></svg>
                                             <span>324</span>
                                         </a>
                                         <a href="#" data-popup-target=".open-photo-popup-v2" class="js-open-popup full-block"></a>
@@ -221,9 +221,9 @@
                         <div class="photo-item">
                             <img src="/img/open-photo1.jpg" alt="photo">
                             <div class="overlay"></div>
-                            <a href="#" class="more"><svg class="olymp-three-dots-icon"><use xlink:href="/icons/icons.svg#olymp-three-dots-icon"></use></svg></a>
+                            <a href="#" class="more"><svg class="olymp-three-dots-icon"><use xlink:href="/public/icons/icons.svg#olymp-three-dots-icon"></use></svg></a>
                             <a href="#" class="tag-friends" data-toggle="tooltip" data-placement="top" title="" data-original-title="TAG YOUR FRIENDS">
-                                <svg class="olymp-happy-face-icon"><use xlink:href="/icons/icons.svg#olymp-happy-face-icon"></use></svg>
+                                <svg class="olymp-happy-face-icon"><use xlink:href="/public/icons/icons.svg#olymp-happy-face-icon"></use></svg>
                             </a>
 
                             <div class="content">
@@ -237,9 +237,9 @@
                         <div class="photo-item">
                             <img src="/img/open-photo1.jpg" alt="photo">
                             <div class="overlay"></div>
-                            <a href="#" class="more"><svg class="olymp-three-dots-icon"><use xlink:href="/icons/icons.svg#olymp-three-dots-icon"></use></svg></a>
+                            <a href="#" class="more"><svg class="olymp-three-dots-icon"><use xlink:href="/public/icons/icons.svg#olymp-three-dots-icon"></use></svg></a>
                             <a href="#" class="tag-friends" data-toggle="tooltip" data-placement="top" title="" data-original-title="TAG YOUR FRIENDS">
-                                <svg class="olymp-happy-face-icon"><use xlink:href="/icons/icons.svg#olymp-happy-face-icon"></use></svg>
+                                <svg class="olymp-happy-face-icon"><use xlink:href="/public/icons/icons.svg#olymp-happy-face-icon"></use></svg>
                             </a>
 
                             <div class="content">
@@ -253,9 +253,9 @@
                         <div class="photo-item">
                             <img src="/img/open-photo1.jpg" alt="photo">
                             <div class="overlay"></div>
-                            <a href="#" class="more"><svg class="olymp-three-dots-icon"><use xlink:href="/icons/icons.svg#olymp-three-dots-icon"></use></svg></a>
+                            <a href="#" class="more"><svg class="olymp-three-dots-icon"><use xlink:href="/public/icons/icons.svg#olymp-three-dots-icon"></use></svg></a>
                             <a href="#" class="tag-friends" data-toggle="tooltip" data-placement="top" title="" data-original-title="TAG YOUR FRIENDS">
-                                <svg class="olymp-happy-face-icon"><use xlink:href="/icons/icons.svg#olymp-happy-face-icon"></use></svg>
+                                <svg class="olymp-happy-face-icon"><use xlink:href="/public/icons/icons.svg#olymp-happy-face-icon"></use></svg>
                             </a>
 
                             <div class="content">
@@ -285,7 +285,7 @@
                         </div>
                     </div>
 
-                    <div class="more"><svg class="olymp-three-dots-icon"><use xlink:href="/icons/icons.svg#olymp-three-dots-icon"></use></svg>
+                    <div class="more"><svg class="olymp-three-dots-icon"><use xlink:href="/public/icons/icons.svg#olymp-three-dots-icon"></use></svg>
                         <ul class="more-dropdown">
                             <li>
                                 <a href="#">Edit Post</a>
@@ -311,7 +311,7 @@
                 <div class="post-additional-info inline-items">
 
                     <a href="#" class="post-add-icon inline-items">
-                        <svg class="olymp-heart-icon"><use xlink:href="/icons/icons.svg#olymp-heart-icon"></use></svg>
+                        <svg class="olymp-heart-icon"><use xlink:href="/public/icons/icons.svg#olymp-heart-icon"></use></svg>
                         <span>148</span>
                     </a>
 
@@ -351,12 +351,12 @@
 
                     <div class="comments-shared">
                         <a href="#" class="post-add-icon inline-items">
-                            <svg class="olymp-speech-balloon-icon"><use xlink:href="/icons/icons.svg#olymp-speech-balloon-icon"></use></svg>
+                            <svg class="olymp-speech-balloon-icon"><use xlink:href="/public/icons/icons.svg#olymp-speech-balloon-icon"></use></svg>
                             <span>61</span>
                         </a>
 
                         <a href="#" class="post-add-icon inline-items">
-                            <svg class="olymp-share-icon"><use xlink:href="/icons/icons.svg#olymp-share-icon"></use></svg>
+                            <svg class="olymp-share-icon"><use xlink:href="/public/icons/icons.svg#olymp-share-icon"></use></svg>
                             <span>32</span>
                         </a>
                     </div>
@@ -367,15 +367,15 @@
                 <div class="control-block-button post-control-button">
 
                     <a href="#" class="btn btn-control">
-                        <svg class="olymp-like-post-icon"><use xlink:href="/icons/icons.svg#olymp-like-post-icon"></use></svg>
+                        <svg class="olymp-like-post-icon"><use xlink:href="/public/icons/icons.svg#olymp-like-post-icon"></use></svg>
                     </a>
 
                     <a href="#" class="btn btn-control">
-                        <svg class="olymp-comments-post-icon"><use xlink:href="/icons/icons.svg#olymp-comments-post-icon"></use></svg>
+                        <svg class="olymp-comments-post-icon"><use xlink:href="/public/icons/icons.svg#olymp-comments-post-icon"></use></svg>
                     </a>
 
                     <a href="#" class="btn btn-control">
-                        <svg class="olymp-share-icon"><use xlink:href="/icons/icons.svg#olymp-share-icon"></use></svg>
+                        <svg class="olymp-share-icon"><use xlink:href="/public/icons/icons.svg#olymp-share-icon"></use></svg>
                     </a>
 
                 </div>
@@ -398,14 +398,14 @@
                                 </div>
                             </div>
 
-                            <a href="#" class="more"><svg class="olymp-three-dots-icon"><use xlink:href="/icons/icons.svg#olymp-three-dots-icon"></use></svg></a>
+                            <a href="#" class="more"><svg class="olymp-three-dots-icon"><use xlink:href="/public/icons/icons.svg#olymp-three-dots-icon"></use></svg></a>
 
                         </div>
 
                         <p>I had a great time too!! We should do it again!</p>
 
                         <a href="#" class="post-add-icon inline-items">
-                            <svg class="olymp-heart-icon"><use xlink:href="/icons/icons.svg#olymp-heart-icon"></use></svg>
+                            <svg class="olymp-heart-icon"><use xlink:href="/public/icons/icons.svg#olymp-heart-icon"></use></svg>
                             <span>8</span>
                         </a>
                         <a href="#" class="reply">Reply</a>
@@ -424,14 +424,14 @@
                                 </div>
                             </div>
 
-                            <a href="#" class="more"><svg class="olymp-three-dots-icon"><use xlink:href="/icons/icons.svg#olymp-three-dots-icon"></use></svg></a>
+                            <a href="#" class="more"><svg class="olymp-three-dots-icon"><use xlink:href="/public/icons/icons.svg#olymp-three-dots-icon"></use></svg></a>
 
                         </div>
 
                         <p>Dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit.</p>
 
                         <a href="#" class="post-add-icon inline-items">
-                            <svg class="olymp-heart-icon"><use xlink:href="/icons/icons.svg#olymp-heart-icon"></use></svg>
+                            <svg class="olymp-heart-icon"><use xlink:href="/public/icons/icons.svg#olymp-heart-icon"></use></svg>
                             <span>7</span>
                         </a>
                         <a href="#" class="reply">Reply</a>
@@ -451,7 +451,7 @@
                     <textarea class="form-control" placeholder="Press Enter to post..."></textarea>
                     <div class="add-options-message">
                         <a href="#" class="options-message">
-                            <svg class="olymp-camera-icon"><use xlink:href="/icons/icons.svg#olymp-camera-icon"></use></svg>
+                            <svg class="olymp-camera-icon"><use xlink:href="/public/icons/icons.svg#olymp-camera-icon"></use></svg>
                         </a>
                     </div>
                 </div>
@@ -469,7 +469,7 @@
 
     <div class="ui-block window-popup open-photo-popup open-photo-popup-v2">
         <a href="" class="icon-close js-close-popup">
-            <svg class="olymp-close-icon"><use xlink:href="/icons/icons.svg#olymp-close-icon"></use></svg>
+            <svg class="olymp-close-icon"><use xlink:href="/public/icons/icons.svg#olymp-close-icon"></use></svg>
         </a>
 
         <div class="open-photo-thumb">
@@ -484,9 +484,9 @@
                         <div class="photo-item" data-swiper-parallax="-300" data-swiper-parallax-duration="500">
                             <img src="/img/open-photo2.jpg" alt="photo">
                             <div class="overlay"></div>
-                            <a href="#" class="more"><svg class="olymp-three-dots-icon"><use xlink:href="/icons/icons.svg#olymp-three-dots-icon"></use></svg></a>
+                            <a href="#" class="more"><svg class="olymp-three-dots-icon"><use xlink:href="/public/icons/icons.svg#olymp-three-dots-icon"></use></svg></a>
                             <a href="#" class="tag-friends" data-toggle="tooltip" data-placement="top" title="" data-original-title="TAG YOUR FRIENDS">
-                                <svg class="olymp-happy-face-icon"><use xlink:href="/icons/icons.svg#olymp-happy-face-icon"></use></svg>
+                                <svg class="olymp-happy-face-icon"><use xlink:href="/public/icons/icons.svg#olymp-happy-face-icon"></use></svg>
                             </a>
 
                             <div class="content">
@@ -500,9 +500,9 @@
                         <div class="photo-item" data-swiper-parallax="-300" data-swiper-parallax-duration="500">
                             <img src="/img/open-photo2.jpg" alt="photo">
                             <div class="overlay"></div>
-                            <a href="#" class="more"><svg class="olymp-three-dots-icon"><use xlink:href="/icons/icons.svg#olymp-three-dots-icon"></use></svg></a>
+                            <a href="#" class="more"><svg class="olymp-three-dots-icon"><use xlink:href="/public/icons/icons.svg#olymp-three-dots-icon"></use></svg></a>
                             <a href="#" class="tag-friends" data-toggle="tooltip" data-placement="top" title="" data-original-title="TAG YOUR FRIENDS">
-                                <svg class="olymp-happy-face-icon"><use xlink:href="/icons/icons.svg#olymp-happy-face-icon"></use></svg>
+                                <svg class="olymp-happy-face-icon"><use xlink:href="/public/icons/icons.svg#olymp-happy-face-icon"></use></svg>
                             </a>
 
                             <div class="content">
@@ -516,9 +516,9 @@
                         <div class="photo-item" data-swiper-parallax="-300" data-swiper-parallax-duration="500">
                             <img src="/img/open-photo2.jpg" alt="photo">
                             <div class="overlay"></div>
-                            <a href="#" class="more"><svg class="olymp-three-dots-icon"><use xlink:href="/icons/icons.svg#olymp-three-dots-icon"></use></svg></a>
+                            <a href="#" class="more"><svg class="olymp-three-dots-icon"><use xlink:href="/public/icons/icons.svg#olymp-three-dots-icon"></use></svg></a>
                             <a href="#" class="tag-friends" data-toggle="tooltip" data-placement="top" title="" data-original-title="TAG YOUR FRIENDS">
-                                <svg class="olymp-happy-face-icon"><use xlink:href="/icons/icons.svg#olymp-happy-face-icon"></use></svg>
+                                <svg class="olymp-happy-face-icon"><use xlink:href="/public/icons/icons.svg#olymp-happy-face-icon"></use></svg>
                             </a>
 
                             <div class="content">
@@ -532,9 +532,9 @@
                         <div class="photo-item" data-swiper-parallax="-300" data-swiper-parallax-duration="500">
                             <img src="/img/open-photo2.jpg" alt="photo">
                             <div class="overlay"></div>
-                            <a href="#" class="more"><svg class="olymp-three-dots-icon"><use xlink:href="/icons/icons.svg#olymp-three-dots-icon"></use></svg></a>
+                            <a href="#" class="more"><svg class="olymp-three-dots-icon"><use xlink:href="/public/icons/icons.svg#olymp-three-dots-icon"></use></svg></a>
                             <a href="#" class="tag-friends" data-toggle="tooltip" data-placement="top" title="" data-original-title="TAG YOUR FRIENDS">
-                                <svg class="olymp-happy-face-icon"><use xlink:href="/icons/icons.svg#olymp-happy-face-icon"></use></svg>
+                                <svg class="olymp-happy-face-icon"><use xlink:href="/public/icons/icons.svg#olymp-happy-face-icon"></use></svg>
                             </a>
 
                             <div class="content">
@@ -548,9 +548,9 @@
                         <div class="photo-item" data-swiper-parallax="-300" data-swiper-parallax-duration="500">
                             <img src="/img/open-photo2.jpg" alt="photo">
                             <div class="overlay"></div>
-                            <a href="#" class="more"><svg class="olymp-three-dots-icon"><use xlink:href="/icons/icons.svg#olymp-three-dots-icon"></use></svg></a>
+                            <a href="#" class="more"><svg class="olymp-three-dots-icon"><use xlink:href="/public/icons/icons.svg#olymp-three-dots-icon"></use></svg></a>
                             <a href="#" class="tag-friends" data-toggle="tooltip" data-placement="top" title="" data-original-title="TAG YOUR FRIENDS">
-                                <svg class="olymp-happy-face-icon"><use xlink:href="/icons/icons.svg#olymp-happy-face-icon"></use></svg>
+                                <svg class="olymp-happy-face-icon"><use xlink:href="/public/icons/icons.svg#olymp-happy-face-icon"></use></svg>
                             </a>
 
                             <div class="content">
@@ -564,9 +564,9 @@
                         <div class="photo-item" data-swiper-parallax="-300" data-swiper-parallax-duration="500">
                             <img src="/img/open-photo2.jpg" alt="photo">
                             <div class="overlay"></div>
-                            <a href="#" class="more"><svg class="olymp-three-dots-icon"><use xlink:href="/icons/icons.svg#olymp-three-dots-icon"></use></svg></a>
+                            <a href="#" class="more"><svg class="olymp-three-dots-icon"><use xlink:href="/public/icons/icons.svg#olymp-three-dots-icon"></use></svg></a>
                             <a href="#" class="tag-friends" data-toggle="tooltip" data-placement="top" title="" data-original-title="TAG YOUR FRIENDS">
-                                <svg class="olymp-happy-face-icon"><use xlink:href="/icons/icons.svg#olymp-happy-face-icon"></use></svg>
+                                <svg class="olymp-happy-face-icon"><use xlink:href="/public/icons/icons.svg#olymp-happy-face-icon"></use></svg>
                             </a>
 
                             <div class="content">
@@ -580,9 +580,9 @@
                         <div class="photo-item" data-swiper-parallax="-300" data-swiper-parallax-duration="500">
                             <img src="/img/open-photo2.jpg" alt="photo">
                             <div class="overlay"></div>
-                            <a href="#" class="more"><svg class="olymp-three-dots-icon"><use xlink:href="/icons/icons.svg#olymp-three-dots-icon"></use></svg></a>
+                            <a href="#" class="more"><svg class="olymp-three-dots-icon"><use xlink:href="/public/icons/icons.svg#olymp-three-dots-icon"></use></svg></a>
                             <a href="#" class="tag-friends" data-toggle="tooltip" data-placement="top" title="" data-original-title="TAG YOUR FRIENDS">
-                                <svg class="olymp-happy-face-icon"><use xlink:href="/icons/icons.svg#olymp-happy-face-icon"></use></svg>
+                                <svg class="olymp-happy-face-icon"><use xlink:href="/public/icons/icons.svg#olymp-happy-face-icon"></use></svg>
                             </a>
 
                             <div class="content">
@@ -596,9 +596,9 @@
                         <div class="photo-item" data-swiper-parallax="-300" data-swiper-parallax-duration="500">
                             <img src="/img/open-photo2.jpg" alt="photo">
                             <div class="overlay"></div>
-                            <a href="#" class="more"><svg class="olymp-three-dots-icon"><use xlink:href="/icons/icons.svg#olymp-three-dots-icon"></use></svg></a>
+                            <a href="#" class="more"><svg class="olymp-three-dots-icon"><use xlink:href="/public/icons/icons.svg#olymp-three-dots-icon"></use></svg></a>
                             <a href="#" class="tag-friends" data-toggle="tooltip" data-placement="top" title="" data-original-title="TAG YOUR FRIENDS">
-                                <svg class="olymp-happy-face-icon"><use xlink:href="/icons/icons.svg#olymp-happy-face-icon"></use></svg>
+                                <svg class="olymp-happy-face-icon"><use xlink:href="/public/icons/icons.svg#olymp-happy-face-icon"></use></svg>
                             </a>
 
                             <div class="content">
@@ -612,9 +612,9 @@
                         <div class="photo-item" data-swiper-parallax="-300" data-swiper-parallax-duration="500">
                             <img src="/img/open-photo2.jpg" alt="photo">
                             <div class="overlay"></div>
-                            <a href="#" class="more"><svg class="olymp-three-dots-icon"><use xlink:href="/icons/icons.svg#olymp-three-dots-icon"></use></svg></a>
+                            <a href="#" class="more"><svg class="olymp-three-dots-icon"><use xlink:href="/public/icons/icons.svg#olymp-three-dots-icon"></use></svg></a>
                             <a href="#" class="tag-friends" data-toggle="tooltip" data-placement="top" title="" data-original-title="TAG YOUR FRIENDS">
-                                <svg class="olymp-happy-face-icon"><use xlink:href="/icons/icons.svg#olymp-happy-face-icon"></use></svg>
+                                <svg class="olymp-happy-face-icon"><use xlink:href="/public/icons/icons.svg#olymp-happy-face-icon"></use></svg>
                             </a>
 
                             <div class="content">
@@ -678,9 +678,9 @@
 
                 <!--Prev Next Arrows-->
 
-                <svg class="btn-next olymp-popup-right-arrow"><use xlink:href="/icons/icons.svg#olymp-popup-right-arrow"></use></svg>
+                <svg class="btn-next olymp-popup-right-arrow"><use xlink:href="/public/icons/icons.svg#olymp-popup-right-arrow"></use></svg>
 
-                <svg class="btn-prev olymp-popup-left-arrow"><use xlink:href="/icons/icons.svg#olymp-popup-left-arrow"></use></svg>
+                <svg class="btn-prev olymp-popup-left-arrow"><use xlink:href="/public/icons/icons.svg#olymp-popup-left-arrow"></use></svg>
 
             </div>
 
@@ -702,7 +702,7 @@
                         </div>
                     </div>
 
-                    <div class="more"><svg class="olymp-three-dots-icon"><use xlink:href="/icons/icons.svg#olymp-three-dots-icon"></use></svg>
+                    <div class="more"><svg class="olymp-three-dots-icon"><use xlink:href="/public/icons/icons.svg#olymp-three-dots-icon"></use></svg>
                         <ul class="more-dropdown">
                             <li>
                                 <a href="#">Edit Post</a>
@@ -728,19 +728,19 @@
                 <div class="post-additional-info inline-items">
 
                     <a href="#" class="post-add-icon inline-items">
-                        <svg class="olymp-heart-icon"><use xlink:href="/icons/icons.svg#olymp-heart-icon"></use></svg>
+                        <svg class="olymp-heart-icon"><use xlink:href="/public/icons/icons.svg#olymp-heart-icon"></use></svg>
                         <span>148</span>
                     </a>
 
 
                     <div class="comments-shared">
                         <a href="#" class="post-add-icon inline-items">
-                            <svg class="olymp-speech-balloon-icon"><use xlink:href="/icons/icons.svg#olymp-speech-balloon-icon"></use></svg>
+                            <svg class="olymp-speech-balloon-icon"><use xlink:href="/public/icons/icons.svg#olymp-speech-balloon-icon"></use></svg>
                             <span>61</span>
                         </a>
 
                         <a href="#" class="post-add-icon inline-items">
-                            <svg class="olymp-share-icon"><use xlink:href="/icons/icons.svg#olymp-share-icon"></use></svg>
+                            <svg class="olymp-share-icon"><use xlink:href="/public/icons/icons.svg#olymp-share-icon"></use></svg>
                             <span>32</span>
                         </a>
                     </div>
@@ -751,15 +751,15 @@
                 <div class="control-block-button post-control-button">
 
                     <a href="#" class="btn btn-control">
-                        <svg class="olymp-like-post-icon"><use xlink:href="/icons/icons.svg#olymp-like-post-icon"></use></svg>
+                        <svg class="olymp-like-post-icon"><use xlink:href="/public/icons/icons.svg#olymp-like-post-icon"></use></svg>
                     </a>
 
                     <a href="#" class="btn btn-control">
-                        <svg class="olymp-comments-post-icon"><use xlink:href="/icons/icons.svg#olymp-comments-post-icon"></use></svg>
+                        <svg class="olymp-comments-post-icon"><use xlink:href="/public/icons/icons.svg#olymp-comments-post-icon"></use></svg>
                     </a>
 
                     <a href="#" class="btn btn-control">
-                        <svg class="olymp-share-icon"><use xlink:href="/icons/icons.svg#olymp-share-icon"></use></svg>
+                        <svg class="olymp-share-icon"><use xlink:href="/public/icons/icons.svg#olymp-share-icon"></use></svg>
                     </a>
 
                 </div>
@@ -782,14 +782,14 @@
                                 </div>
                             </div>
 
-                            <a href="#" class="more"><svg class="olymp-three-dots-icon"><use xlink:href="/icons/icons.svg#olymp-three-dots-icon"></use></svg></a>
+                            <a href="#" class="more"><svg class="olymp-three-dots-icon"><use xlink:href="/public/icons/icons.svg#olymp-three-dots-icon"></use></svg></a>
 
                         </div>
 
                         <p>I had a great time too!! We should do it again!</p>
 
                         <a href="#" class="post-add-icon inline-items">
-                            <svg class="olymp-heart-icon"><use xlink:href="/icons/icons.svg#olymp-heart-icon"></use></svg>
+                            <svg class="olymp-heart-icon"><use xlink:href="/public/icons/icons.svg#olymp-heart-icon"></use></svg>
                             <span>8</span>
                         </a>
                         <a href="#" class="reply">Reply</a>
@@ -808,14 +808,14 @@
                                 </div>
                             </div>
 
-                            <a href="#" class="more"><svg class="olymp-three-dots-icon"><use xlink:href="/icons/icons.svg#olymp-three-dots-icon"></use></svg></a>
+                            <a href="#" class="more"><svg class="olymp-three-dots-icon"><use xlink:href="/public/icons/icons.svg#olymp-three-dots-icon"></use></svg></a>
 
                         </div>
 
                         <p>Dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit.</p>
 
                         <a href="#" class="post-add-icon inline-items">
-                            <svg class="olymp-heart-icon"><use xlink:href="/icons/icons.svg#olymp-heart-icon"></use></svg>
+                            <svg class="olymp-heart-icon"><use xlink:href="/public/icons/icons.svg#olymp-heart-icon"></use></svg>
                             <span>7</span>
                         </a>
                         <a href="#" class="reply">Reply</a>
@@ -835,7 +835,7 @@
                     <textarea class="form-control" placeholder="Press Enter to post..." ></textarea>
                     <div class="add-options-message">
                         <a href="#" class="options-message">
-                            <svg class="olymp-camera-icon"><use xlink:href="/icons/icons.svg#olymp-camera-icon"></use></svg>
+                            <svg class="olymp-camera-icon"><use xlink:href="/public/icons/icons.svg#olymp-camera-icon"></use></svg>
                         </a>
                     </div>
                 </div>
@@ -852,7 +852,7 @@
 
     <div class="ui-block window-popup choose-from-my-photo">
         <a href="#" class="icon-close js-close-popup">
-            <svg class="olymp-close-icon"><use xlink:href="/icons/icons.svg#olymp-close-icon"></use></svg>
+            <svg class="olymp-close-icon"><use xlink:href="/public/icons/icons.svg#olymp-close-icon"></use></svg>
         </a>
 
         <div class="ui-block-title">
@@ -862,12 +862,12 @@
             <ul class="nav nav-tabs" role="tablist">
                 <li class="nav-item">
                     <a class="nav-link active" data-toggle="tab" href="#home" role="tab" aria-expanded="true">
-                        <svg class="olymp-photos-icon"><use xlink:href="/icons/icons.svg#olymp-photos-icon"></use></svg>
+                        <svg class="olymp-photos-icon"><use xlink:href="/public/icons/icons.svg#olymp-photos-icon"></use></svg>
                     </a>
                 </li>
                 <li class="nav-item">
                     <a class="nav-link" data-toggle="tab" href="#profile" role="tab" aria-expanded="false">
-                        <svg class="olymp-albums-icon"><use xlink:href="/icons/icons.svg#olymp-albums-icon"></use></svg>
+                        <svg class="olymp-albums-icon"><use xlink:href="/public/icons/icons.svg#olymp-albums-icon"></use></svg>
                     </a>
                 </li>
             </ul>
@@ -1033,7 +1033,7 @@
 
     <div class="ui-block window-popup create-photo-album">
         <a href="" class="icon-close js-close-popup">
-            <svg class="olymp-close-icon"><use xlink:href="/icons/icons.svg#olymp-close-icon"></use></svg>
+            <svg class="olymp-close-icon"><use xlink:href="/public/icons/icons.svg#olymp-close-icon"></use></svg>
         </a>
 
         <div class="ui-block-title">
@@ -1052,7 +1052,7 @@
                     <div class="photo-album-item create-album" data-mh="album-item">
                         <div class="content">
                             <a href="#" class="btn btn-control bg-primary">
-                                <svg class="olymp-plus-icon"><use xlink:href="/icons/icons.svg#olymp-plus-icon"></use></svg>
+                                <svg class="olymp-plus-icon"><use xlink:href="/public/icons/icons.svg#olymp-plus-icon"></use></svg>
                             </a>
 
                             <a href="#" class="title h5">Add More Photos...</a>
@@ -1068,7 +1068,7 @@
                         </div>
 
                         <form class="form-group label-floating is-select">
-                            <svg class="olymp-happy-face-icon"><use xlink:href="/icons/icons.svg#olymp-happy-face-icon"></use></svg>
+                            <svg class="olymp-happy-face-icon"><use xlink:href="/public/icons/icons.svg#olymp-happy-face-icon"></use></svg>
 
                             <select class="selectpicker form-control style-2 show-tick" multiple data-max-options="2" data-live-search="true">
                                 <option title="Green Goo Rock" data-content='<div class="inline-items">
@@ -1124,7 +1124,7 @@
                             <textarea class="form-control" placeholder="Write something about this photo..."></textarea>
                         </div>
                         <form class="form-group label-floating is-select">
-                            <svg class="olymp-happy-face-icon"><use xlink:href="/icons/icons.svg#olymp-happy-face-icon"></use></svg>
+                            <svg class="olymp-happy-face-icon"><use xlink:href="/public/icons/icons.svg#olymp-happy-face-icon"></use></svg>
 
                             <select class="selectpicker form-control style-2 show-tick" multiple data-max-options="2" data-live-search="true">
                                 <option title="Green Goo Rock" data-content='<div class="inline-items">
@@ -1181,7 +1181,7 @@
                         </div>
 
                         <form class="form-group label-floating is-select">
-                            <svg class="olymp-happy-face-icon"><use xlink:href="/icons/icons.svg#olymp-happy-face-icon"></use></svg>
+                            <svg class="olymp-happy-face-icon"><use xlink:href="/public/icons/icons.svg#olymp-happy-face-icon"></use></svg>
 
                             <select class="selectpicker form-control style-2 show-tick" multiple data-max-options="2" data-live-search="true">
                                 <option title="Green Goo Rock" data-content='<div class="inline-items">
@@ -1238,7 +1238,7 @@
                         </div>
 
                         <form class="form-group label-floating is-select">
-                            <svg class="olymp-happy-face-icon"><use xlink:href="/icons/icons.svg#olymp-happy-face-icon"></use></svg>
+                            <svg class="olymp-happy-face-icon"><use xlink:href="/public/icons/icons.svg#olymp-happy-face-icon"></use></svg>
 
                             <select class="selectpicker form-control style-2 show-tick" multiple data-max-options="2" data-live-search="true">
                                 <option title="Green Goo Rock" data-content='<div class="inline-items">
@@ -1295,7 +1295,7 @@
                         </div>
 
                         <form class="form-group label-floating is-select">
-                            <svg class="olymp-happy-face-icon"><use xlink:href="/icons/icons.svg#olymp-happy-face-icon"></use></svg>
+                            <svg class="olymp-happy-face-icon"><use xlink:href="/public/icons/icons.svg#olymp-happy-face-icon"></use></svg>
 
                             <select class="selectpicker form-control style-2 show-tick" multiple data-max-options="2" data-live-search="true">
                                 <option title="Green Goo Rock" data-content='<div class="inline-items">

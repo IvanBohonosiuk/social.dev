@@ -2,11 +2,11 @@
     <div class="post-additional-info inline-items">
 
         <a class="post-add-icon inline-items" v-if="!auth_user_likes_post" @click="like()" style="cursor: pointer;">
-            <svg class="olymp-heart-icon"><use xlink:href="/icons/icons.svg#olymp-heart-icon"></use></svg>
+            <svg class="olymp-heart-icon"><use xlink:href="/public/icons/icons.svg#olymp-heart-icon"></use></svg>
             <span>{{ all_post_likes_count }}</span>
         </a>
         <a class="post-add-icon inline-items c-red" v-else @click="unlike()" style="cursor: pointer;">
-            <svg class="olymp-heart-icon"><use xlink:href="/icons/icons.svg#olymp-heart-icon"></use></svg>
+            <svg class="olymp-heart-icon"><use xlink:href="/public/icons/icons.svg#olymp-heart-icon"></use></svg>
             <span>{{ all_post_likes_count }}</span>
         </a>
 
@@ -26,12 +26,12 @@
 
         <div class="comments-shared">
             <a href="#" class="post-add-icon inline-items">
-                <svg class="olymp-speech-balloon-icon"><use xlink:href="/icons/icons.svg#olymp-speech-balloon-icon"></use></svg>
+                <svg class="olymp-speech-balloon-icon"><use xlink:href="/public/icons/icons.svg#olymp-speech-balloon-icon"></use></svg>
                 <span>17</span>
             </a>
 
             <a href="#" class="post-add-icon inline-items">
-                <svg class="olymp-share-icon"><use xlink:href="/icons/icons.svg#olymp-share-icon"></use></svg>
+                <svg class="olymp-share-icon"><use xlink:href="/public/icons/icons.svg#olymp-share-icon"></use></svg>
                 <span>24</span>
             </a>
         </div>

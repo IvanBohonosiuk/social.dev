@@ -2,7 +2,7 @@
 
 <div class="ui-block window-popup update-header-photo">
     <a href="#" class="icon-close js-close-popup">
-        <svg class="olymp-close-icon"><use xlink:href="/icons/icons.svg#olymp-close-icon"></use></svg>
+        <svg class="olymp-close-icon"><use xlink:href="/public/icons/icons.svg#olymp-close-icon"></use></svg>
     </a>
 
     <div class="ui-block-title">
@@ -10,14 +10,14 @@
     </div>
 
     <div class="upload-photo-item">
-        <svg class="olymp-computer-icon"><use xlink:href="/icons/icons.svg#olymp-computer-icon"></use></svg>
+        <svg class="olymp-computer-icon"><use xlink:href="/public/icons/icons.svg#olymp-computer-icon"></use></svg>
         <input type="file" title="Оберіть файл для завантаження" accept="image/*" autofocus id="avatar">
         <h6>Завантажити фото</h6>
         <span>Вибрати з вашого комп'ютера</span>
     </div>
 
     <a href="#" class="upload-photo-item js-open-choose-from-my-photo">
-        <svg class="olymp-photos-icon"><use xlink:href="/icons/icons.svg#olymp-photos-icon"></use></svg>
+        <svg class="olymp-photos-icon"><use xlink:href="/public/icons/icons.svg#olymp-photos-icon"></use></svg>
 
         <h6>Choose from My Photos</h6>
         <span>Choose from your uploaded photos</span>
@@ -32,7 +32,7 @@
 
 <div class="ui-block window-popup choose-from-my-photo">
     <a href="#" class="icon-close js-close-popup">
-        <svg class="olymp-close-icon"><use xlink:href="/icons/icons.svg#olymp-close-icon"></use></svg>
+        <svg class="olymp-close-icon"><use xlink:href="/public/icons/icons.svg#olymp-close-icon"></use></svg>
     </a>
 
     <div class="ui-block-title">
@@ -42,12 +42,12 @@
         <ul class="nav nav-tabs" role="tablist">
             <li class="nav-item">
                 <a class="nav-link active" data-toggle="tab" href="#home" role="tab" aria-expanded="true">
-                    <svg class="olymp-photos-icon"><use xlink:href="/icons/icons.svg#olymp-photos-icon"></use></svg>
+                    <svg class="olymp-photos-icon"><use xlink:href="/public/icons/icons.svg#olymp-photos-icon"></use></svg>
                 </a>
             </li>
             <li class="nav-item">
                 <a class="nav-link" data-toggle="tab" href="#profile" role="tab" aria-expanded="false">
-                    <svg class="olymp-albums-icon"><use xlink:href="/icons/icons.svg#olymp-albums-icon"></use></svg>
+                    <svg class="olymp-albums-icon"><use xlink:href="/public/icons/icons.svg#olymp-albums-icon"></use></svg>
                 </a>
             </li>
         </ul>

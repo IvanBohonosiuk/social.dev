@@ -18,7 +18,7 @@
                         </div>
                     </div>
 
-                    <div class="more"><svg class="olymp-three-dots-icon"><use xlink:href="/icons/icons.svg#olymp-three-dots-icon"></use></svg>
+                    <div class="more"><svg class="olymp-three-dots-icon"><use xlink:href="/public/icons/icons.svg#olymp-three-dots-icon"></use></svg>
                         <ul class="more-dropdown">
                             <li>
                                 <a href="#">Edit Post</a>
@@ -51,7 +51,7 @@
             </article>
         </div>
 
-        <a href="#" class="btn btn-control btn-more" v-if="profile_posts.length > 10"><svg class="olymp-three-dots-icon"><use xlink:href="/icons/icons.svg#olymp-three-dots-icon"></use></svg></a>
+        <a href="#" class="btn btn-control btn-more" v-if="profile_posts.length > 10"><svg class="olymp-three-dots-icon"><use xlink:href="/public/icons/icons.svg#olymp-three-dots-icon"></use></svg></a>
     </div>
 </template>
 

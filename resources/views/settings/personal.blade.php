@@ -25,7 +25,7 @@
                                 <label class="control-label" for="birthday">Your Birthday</label>
                                 <input name="birthday" id="birthday" value="{{ $user->birthday }}" />
                                 <span class="input-group-addon">
-										<svg class="olymp-month-calendar-icon icon"><use xlink:href="/icons/icons.svg#olymp-month-calendar-icon"></use></svg>
+										<svg class="olymp-month-calendar-icon icon"><use xlink:href="/public/icons/icons.svg#olymp-month-calendar-icon"></use></svg>
 									</span>
                             </div>
                         </div>

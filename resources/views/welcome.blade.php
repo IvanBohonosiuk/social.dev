@@ -8,12 +8,13 @@
     <style>
 
         body {
-            background-image: url('/img/landing-bg.jpg')
+            /*background-image: url('/img/landing-bg.jpg')*/
+            background: #333;
         }
     </style>
 
-    <link rel="stylesheet" type="text/css" href="/css/daterangepicker.css">
-    <link rel="stylesheet" type="text/css" href="/css/bootstrap-select.css">
+    <link rel="stylesheet" type="text/css" href="{{ url('css/daterangepicker.css') }}">
+    <link rel="stylesheet" type="text/css" href="{{ url('css/bootstrap-select.css') }}">
 
 @endsection
 
@@ -26,7 +27,7 @@
             <div class="row display-flex">
                 <div class="col-lg-6 col-md-12 col-sm-12 col-xs-12">
                     <div class="landing-content">
-                        <h1>Welcome to the My Social Network in the Ukraine</h1>
+                        <h1>Welcome to the My Social Network in Ukraine</h1>
                         <p>We are the best and biggest social network with 5 billion active users all around the world. Share you
                             thoughts, write blog posts, show your favourite music via Stopify, earn badges and much more!
                         </p>
@@ -40,12 +41,12 @@
                         <ul class="nav nav-tabs" role="tablist">
                             <li class="nav-item">
                                 <a class="nav-link" data-toggle="tab" href="#home" role="tab">
-                                    <svg class="olymp-login-icon"><use xlink:href="icons/icons.svg#olymp-login-icon"></use></svg>
+                                    <svg class="olymp-login-icon"><use xlink:href="/public/icons/icons.svg#olymp-login-icon"></use></svg>
                                 </a>
                             </li>
                             <li class="nav-item">
                                 <a class="nav-link active" data-toggle="tab" href="#profile" role="tab">
-                                    <svg class="olymp-register-icon"><use xlink:href="icons/icons.svg#olymp-register-icon"></use></svg>
+                                    <svg class="olymp-register-icon"><use xlink:href="/public/icons/icons.svg#olymp-register-icon"></use></svg>
                                 </a>
                             </li>
                         </ul>
@@ -111,7 +112,7 @@
                                                 <label class="control-label" for="birthday">Your Birthday</label>
                                                 <input name="birthday" value="1983-10-24" id="birthday" type="text" />
                                                 <span class="input-group-addon">
-                                                <svg class="olymp-calendar-icon"><use xlink:href="icons/icons.svg#olymp-calendar-icon"></use></svg>
+                                                <svg class="olymp-calendar-icon"><use xlink:href="/public/icons/icons.svg#olymp-calendar-icon"></use></svg>
                                             </span>
                                             </div>
 
@@ -200,9 +201,9 @@
 
 @section('scripts')
     <!-- Swiper / Sliders -->
-    <script src="/js/swiper.jquery.min.js"></script>
+    <script src="{{ url('js/swiper.jquery.min.js') }}"></script>
 
     <!-- Datepicker input field script-->
-    <script src="/js/moment.min.js"></script>
-    <script src="/js/daterangepicker.min.js"></script>
+    <script src="{{ url('js/moment.min.js') }}"></script>
+    <script src="{{ url('js/daterangepicker.min.js') }}"></script>
 @endsection

@@ -94,7 +94,7 @@
                 </div>
                 <span class="notification-icon" data-toggle="tooltip" data-placement="top" title="" data-original-title="ADD TO YOUR FAVS">
 							<a href="#">
-								<svg class="olymp-star-icon"><use xlink:href="/icons/icons.svg#olymp-star-icon"></use></svg>
+								<svg class="olymp-star-icon"><use xlink:href="/public/icons/icons.svg#olymp-star-icon"></use></svg>
 							</a>
 						</span>
 
@@ -110,7 +110,7 @@
                 </div>
                 <span class="notification-icon" data-toggle="tooltip" data-placement="top" title="" data-original-title="ADD TO YOUR FAVS">
 							<a href="#">
-								<svg class="olymp-star-icon"><use xlink:href="/icons/icons.svg#olymp-star-icon"></use></svg>
+								<svg class="olymp-star-icon"><use xlink:href="/public/icons/icons.svg#olymp-star-icon"></use></svg>
 							</a>
 						</span>
 
@@ -126,7 +126,7 @@
                 </div>
                 <span class="notification-icon" data-toggle="tooltip" data-placement="top" title="" data-original-title="ADD TO YOUR FAVS">
 							<a href="#">
-								<svg class="olymp-star-icon"><use xlink:href="/icons/icons.svg#olymp-star-icon"></use></svg>
+								<svg class="olymp-star-icon"><use xlink:href="/public/icons/icons.svg#olymp-star-icon"></use></svg>
 							</a>
 						</span>
 
@@ -142,7 +142,7 @@
                 </div>
                 <span class="notification-icon" data-toggle="tooltip" data-placement="top" title="" data-original-title="ADD TO YOUR FAVS">
 							<a href="#">
-								<svg class="olymp-star-icon"><use xlink:href="/icons/icons.svg#olymp-star-icon"></use></svg>
+								<svg class="olymp-star-icon"><use xlink:href="/public/icons/icons.svg#olymp-star-icon"></use></svg>
 							</a>
 						</span>
 
@@ -158,7 +158,7 @@
                 </div>
                 <span class="notification-icon" data-toggle="tooltip" data-placement="top" title="" data-original-title="ADD TO YOUR FAVS">
 							<a href="#">
-								<svg class="olymp-star-icon"><use xlink:href="/icons/icons.svg#olymp-star-icon"></use></svg>
+								<svg class="olymp-star-icon"><use xlink:href="/public/icons/icons.svg#olymp-star-icon"></use></svg>
 							</a>
 						</span>
             </li>
@@ -173,7 +173,7 @@
                 </div>
                 <span class="notification-icon" data-toggle="tooltip" data-placement="top" title="" data-original-title="ADD TO YOUR FAVS">
 							<a href="#">
-								<svg class="olymp-star-icon"><use xlink:href="/icons/icons.svg#olymp-star-icon"></use></svg>
+								<svg class="olymp-star-icon"><use xlink:href="/public/icons/icons.svg#olymp-star-icon"></use></svg>
 							</a>
 						</span>
             </li>

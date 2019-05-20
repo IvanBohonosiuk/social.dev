@@ -14,11 +14,11 @@
                             <div class="form-group with-button">
                                 <input class="form-control" type="text" placeholder="Search Friends...">
                                 <button>
-                                    <svg class="olymp-magnifying-glass-icon"><use xlink:href="/icons/icons.svg#olymp-magnifying-glass-icon"></use></svg>
+                                    <svg class="olymp-magnifying-glass-icon"><use xlink:href="/public/icons/icons.svg#olymp-magnifying-glass-icon"></use></svg>
                                 </button>
                             </div>
                         </form>
-                        <a href="#" class="more"><svg class="olymp-three-dots-icon"><use xlink:href="/icons/icons.svg#olymp-three-dots-icon"></use></svg></a>
+                        <a href="#" class="more"><svg class="olymp-three-dots-icon"><use xlink:href="/public/icons/icons.svg#olymp-three-dots-icon"></use></svg></a>
                     </div>
                 </div>
             </div>
@@ -44,7 +44,7 @@
                             <div class="friend-item-content">
 
                                 <div class="more">
-                                    <svg class="olymp-three-dots-icon"><use xlink:href="/icons/icons.svg#olymp-three-dots-icon"></use></svg>
+                                    <svg class="olymp-three-dots-icon"><use xlink:href="/public/icons/icons.svg#olymp-three-dots-icon"></use></svg>
                                     <ul class="more-dropdown">
                                         <li>
                                             <a href="#">Report Profile</a>
@@ -100,11 +100,11 @@
                                             </div>
                                             <div class="control-block-button" data-swiper-parallax="-100">
                                                 <a href="#" class="btn btn-control bg-blue">
-                                                    <svg class="olymp-happy-face-icon"><use xlink:href="/icons/icons.svg#olymp-happy-face-icon"></use></svg>
+                                                    <svg class="olymp-happy-face-icon"><use xlink:href="/public/icons/icons.svg#olymp-happy-face-icon"></use></svg>
                                                 </a>
 
                                                 <a href="#" class="btn btn-control bg-purple">
-                                                    <svg class="olymp-chat---messages-icon"><use xlink:href="/icons/icons.svg#olymp-chat---messages-icon"></use></svg>
+                                                    <svg class="olymp-chat---messages-icon"><use xlink:href="/public/icons/icons.svg#olymp-chat---messages-icon"></use></svg>
                                                 </a>
 
                                             </div>

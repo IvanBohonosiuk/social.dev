@@ -2,22 +2,22 @@
     <span class="notification-icon">
         <a class="accept-request" v-if="status == 'pending' && !loading" title="Підтвердити друга" @click="accept_friend">
             <span class="icon-add without-text">
-                <svg class="olymp-happy-face-icon"><use xmlns:xlink="http://www.w3.org/1999/xlink" xlink:href="/icons/icons.svg#olymp-happy-face-icon"></use></svg>
+                <svg class="olymp-happy-face-icon"><use xmlns:xlink="http://www.w3.org/1999/xlink" xlink:href="/public/icons/icons.svg#olymp-happy-face-icon"></use></svg>
             </span>
         </a>
         <a class="accept-request request-del" v-if="status == 'pending' && !loading">
             <span class="icon-minus">
-                <svg class="olymp-happy-face-icon"><use xlink:href="/icons/icons.svg#olymp-happy-face-icon"></use></svg>
+                <svg class="olymp-happy-face-icon"><use xlink:href="/public/icons/icons.svg#olymp-happy-face-icon"></use></svg>
             </span>
         </a>
         <a class="accept-request bg-grey" v-if="status == 'waiting' && !loading" title="Запит дружби надіслано">
             <span class="icon-add without-text">
-                <svg class="olymp-happy-face-icon"><use xmlns:xlink="http://www.w3.org/1999/xlink" xlink:href="/icons/icons.svg#olymp-happy-face-icon"></use></svg>
+                <svg class="olymp-happy-face-icon"><use xmlns:xlink="http://www.w3.org/1999/xlink" xlink:href="/public/icons/icons.svg#olymp-happy-face-icon"></use></svg>
             </span>
         </a>
         <a class="accept-request bg-green" v-if="status == 'friends' && !loading" title="Ви друзі">
             <span class="icon-add without-text">
-                <svg class="olymp-happy-face-icon"><use xmlns:xlink="http://www.w3.org/1999/xlink" xlink:href="/icons/icons.svg#olymp-happy-face-icon"></use></svg>
+                <svg class="olymp-happy-face-icon"><use xmlns:xlink="http://www.w3.org/1999/xlink" xlink:href="/public/icons/icons.svg#olymp-happy-face-icon"></use></svg>
             </span>
         </a>
     </span>

@@ -55,7 +55,7 @@
                 <div class="ui-block-title">
                     <h6 class="title">My Spotify Playlist</h6>
                     <a href="#" class="more">
-                        <svg class="olymp-three-dots-icon"><use xlink:href="/icons/icons.svg#olymp-three-dots-icon"></use></svg>
+                        <svg class="olymp-three-dots-icon"><use xlink:href="/public/icons/icons.svg#olymp-three-dots-icon"></use></svg>
                     </a>
                 </div>
 
@@ -65,7 +65,7 @@
                             <img src="/img/playlist6.jpg" alt="thumb-composition">
                             <div class="overlay"></div>
                             <a href="#" class="play-icon">
-                                <svg class="olymp-music-play-icon-big"><use xlink:href="/icons/icons-music.svg#olymp-music-play-icon-big"></use></svg>
+                                <svg class="olymp-music-play-icon-big"><use xlink:href="/public/icons/icons-music.svg#olymp-music-play-icon-big"></use></svg>
                             </a>
                         </div>
 
@@ -76,7 +76,7 @@
 
                         <div class="composition-time">
                             <time class="published" datetime="2017-03-24T18:18">3:22</time>
-                            <div class="more"><svg class="olymp-three-dots-icon"><use xlink:href="/icons/icons.svg#olymp-three-dots-icon"></use></svg>
+                            <div class="more"><svg class="olymp-three-dots-icon"><use xlink:href="/public/icons/icons.svg#olymp-three-dots-icon"></use></svg>
                                 <ul class="more-dropdown">
                                     <li>
                                         <a href="#">Add Song to Player</a>
@@ -95,7 +95,7 @@
                             <img src="/img/playlist7.jpg" alt="thumb-composition">
                             <div class="overlay"></div>
                             <a href="#" class="play-icon">
-                                <svg class="olymp-music-play-icon-big"><use xlink:href="/icons/icons-music.svg#olymp-music-play-icon-big"></use></svg>
+                                <svg class="olymp-music-play-icon-big"><use xlink:href="/public/icons/icons-music.svg#olymp-music-play-icon-big"></use></svg>
                             </a>
                         </div>
 
@@ -106,7 +106,7 @@
 
                         <div class="composition-time">
                             <time class="published" datetime="2017-03-24T18:18">5:48</time>
-                            <div class="more"><svg class="olymp-three-dots-icon"><use xlink:href="/icons/icons.svg#olymp-three-dots-icon"></use></svg>
+                            <div class="more"><svg class="olymp-three-dots-icon"><use xlink:href="/public/icons/icons.svg#olymp-three-dots-icon"></use></svg>
                                 <ul class="more-dropdown">
                                     <li>
                                         <a href="#">Add Song to Player</a>
@@ -124,7 +124,7 @@
                             <img src="/img/playlist8.jpg" alt="thumb-composition">
                             <div class="overlay"></div>
                             <a href="#" class="play-icon">
-                                <svg class="olymp-music-play-icon-big"><use xlink:href="/icons/icons-music.svg#olymp-music-play-icon-big"></use></svg>
+                                <svg class="olymp-music-play-icon-big"><use xlink:href="/public/icons/icons-music.svg#olymp-music-play-icon-big"></use></svg>
                             </a>
                         </div>
 
@@ -135,7 +135,7 @@
 
                         <div class="composition-time">
                             <time class="published" datetime="2017-03-24T18:18">3:06</time>
-                            <div class="more"><svg class="olymp-three-dots-icon"><use xlink:href="/icons/icons.svg#olymp-three-dots-icon"></use></svg>
+                            <div class="more"><svg class="olymp-three-dots-icon"><use xlink:href="/public/icons/icons.svg#olymp-three-dots-icon"></use></svg>
                                 <ul class="more-dropdown">
                                     <li>
                                         <a href="#">Add Song to Player</a>
@@ -153,7 +153,7 @@
                             <img src="/img/playlist9.jpg" alt="thumb-composition">
                             <div class="overlay"></div>
                             <a href="#" class="play-icon">
-                                <svg class="olymp-music-play-icon-big"><use xlink:href="/icons/icons-music.svg#olymp-music-play-icon-big"></use></svg>
+                                <svg class="olymp-music-play-icon-big"><use xlink:href="/public/icons/icons-music.svg#olymp-music-play-icon-big"></use></svg>
                             </a>
                         </div>
 
@@ -164,7 +164,7 @@
 
                         <div class="composition-time">
                             <time class="published" datetime="2017-03-24T18:18">6:17</time>
-                            <div class="more"><svg class="olymp-three-dots-icon"><use xlink:href="/icons/icons.svg#olymp-three-dots-icon"></use></svg>
+                            <div class="more"><svg class="olymp-three-dots-icon"><use xlink:href="/public/icons/icons.svg#olymp-three-dots-icon"></use></svg>
                                 <ul class="more-dropdown">
                                     <li>
                                         <a href="#">Add Song to Player</a>
@@ -182,7 +182,7 @@
                             <img src="/img/playlist10.jpg" alt="thumb-composition">
                             <div class="overlay"></div>
                             <a href="#" class="play-icon">
-                                <svg class="olymp-music-play-icon-big"><use xlink:href="/icons/icons-music.svg#olymp-music-play-icon-big"></use></svg>
+                                <svg class="olymp-music-play-icon-big"><use xlink:href="/public/icons/icons-music.svg#olymp-music-play-icon-big"></use></svg>
                             </a>
                         </div>
 
@@ -193,7 +193,7 @@
 
                         <div class="composition-time">
                             <time class="published" datetime="2017-03-24T18:18">5:40</time>
-                            <div class="more"><svg class="olymp-three-dots-icon"><use xlink:href="/icons/icons.svg#olymp-three-dots-icon"></use></svg>
+                            <div class="more"><svg class="olymp-three-dots-icon"><use xlink:href="/public/icons/icons.svg#olymp-three-dots-icon"></use></svg>
                                 <ul class="more-dropdown">
                                     <li>
                                         <a href="#">Add Song to Player</a>
@@ -226,7 +226,7 @@
 
                     </div>
 
-                    <a href="#" class="more"><svg class="olymp-three-dots-icon"><use xlink:href="/icons/icons.svg#olymp-three-dots-icon"></use></svg></a>
+                    <a href="#" class="more"><svg class="olymp-three-dots-icon"><use xlink:href="/public/icons/icons.svg#olymp-three-dots-icon"></use></svg></a>
                 </div>
             </div>
         </div>
@@ -241,7 +241,7 @@
                     <h6 class="title">Green Goo’s Playlist</h6>
                     <a href="#" class="more">
 							<span class="c-green">
-								<svg class="olymp-remove-playlist-icon"><use xlink:href="/icons/icons.svg#olymp-remove-playlist-icon"></use></svg>
+								<svg class="olymp-remove-playlist-icon"><use xlink:href="/public/icons/icons.svg#olymp-remove-playlist-icon"></use></svg>
 							</span>
                     </a>
                 </div>
@@ -252,7 +252,7 @@
                             <img src="/img/playlist6.jpg" alt="thumb-composition">
                             <div class="overlay"></div>
                             <a href="#" class="play-icon">
-                                <svg class="olymp-music-play-icon-big"><use xlink:href="/icons/icons-music.svg#olymp-music-play-icon-big"></use></svg>
+                                <svg class="olymp-music-play-icon-big"><use xlink:href="/public/icons/icons-music.svg#olymp-music-play-icon-big"></use></svg>
                             </a>
                         </div>
 
@@ -263,7 +263,7 @@
 
                         <div class="composition-time">
                             <time class="published" datetime="2017-03-24T18:18">3:22</time>
-                            <div class="more"><svg class="olymp-three-dots-icon"><use xlink:href="/icons/icons.svg#olymp-three-dots-icon"></use></svg>
+                            <div class="more"><svg class="olymp-three-dots-icon"><use xlink:href="/public/icons/icons.svg#olymp-three-dots-icon"></use></svg>
                                 <ul class="more-dropdown">
                                     <li>
                                         <a href="#">Add Song to Player</a>
@@ -282,7 +282,7 @@
                             <img src="/img/playlist7.jpg" alt="thumb-composition">
                             <div class="overlay"></div>
                             <a href="#" class="play-icon">
-                                <svg class="olymp-music-play-icon-big"><use xlink:href="/icons/icons-music.svg#olymp-music-play-icon-big"></use></svg>
+                                <svg class="olymp-music-play-icon-big"><use xlink:href="/public/icons/icons-music.svg#olymp-music-play-icon-big"></use></svg>
                             </a>
                         </div>
 
@@ -293,7 +293,7 @@
 
                         <div class="composition-time">
                             <time class="published" datetime="2017-03-24T18:18">5:48</time>
-                            <div class="more"><svg class="olymp-three-dots-icon"><use xlink:href="/icons/icons.svg#olymp-three-dots-icon"></use></svg>
+                            <div class="more"><svg class="olymp-three-dots-icon"><use xlink:href="/public/icons/icons.svg#olymp-three-dots-icon"></use></svg>
                                 <ul class="more-dropdown">
                                     <li>
                                         <a href="#">Add Song to Player</a>
@@ -311,7 +311,7 @@
                             <img src="/img/playlist8.jpg" alt="thumb-composition">
                             <div class="overlay"></div>
                             <a href="#" class="play-icon">
-                                <svg class="olymp-music-play-icon-big"><use xlink:href="/icons/icons-music.svg#olymp-music-play-icon-big"></use></svg>
+                                <svg class="olymp-music-play-icon-big"><use xlink:href="/public/icons/icons-music.svg#olymp-music-play-icon-big"></use></svg>
                             </a>
                         </div>
 
@@ -322,7 +322,7 @@
 
                         <div class="composition-time">
                             <time class="published" datetime="2017-03-24T18:18">3:06</time>
-                            <div class="more"><svg class="olymp-three-dots-icon"><use xlink:href="/icons/icons.svg#olymp-three-dots-icon"></use></svg>
+                            <div class="more"><svg class="olymp-three-dots-icon"><use xlink:href="/public/icons/icons.svg#olymp-three-dots-icon"></use></svg>
                                 <ul class="more-dropdown">
                                     <li>
                                         <a href="#">Add Song to Player</a>
@@ -340,7 +340,7 @@
                             <img src="/img/playlist9.jpg" alt="thumb-composition">
                             <div class="overlay"></div>
                             <a href="#" class="play-icon">
-                                <svg class="olymp-music-play-icon-big"><use xlink:href="/icons/icons-music.svg#olymp-music-play-icon-big"></use></svg>
+                                <svg class="olymp-music-play-icon-big"><use xlink:href="/public/icons/icons-music.svg#olymp-music-play-icon-big"></use></svg>
                             </a>
                         </div>
 
@@ -351,7 +351,7 @@
 
                         <div class="composition-time">
                             <time class="published" datetime="2017-03-24T18:18">6:17</time>
-                            <div class="more"><svg class="olymp-three-dots-icon"><use xlink:href="/icons/icons.svg#olymp-three-dots-icon"></use></svg>
+                            <div class="more"><svg class="olymp-three-dots-icon"><use xlink:href="/public/icons/icons.svg#olymp-three-dots-icon"></use></svg>
                                 <ul class="more-dropdown">
                                     <li>
                                         <a href="#">Add Song to Player</a>
@@ -369,7 +369,7 @@
                             <img src="/img/playlist10.jpg" alt="thumb-composition">
                             <div class="overlay"></div>
                             <a href="#" class="play-icon">
-                                <svg class="olymp-music-play-icon-big"><use xlink:href="/icons/icons-music.svg#olymp-music-play-icon-big"></use></svg>
+                                <svg class="olymp-music-play-icon-big"><use xlink:href="/public/icons/icons-music.svg#olymp-music-play-icon-big"></use></svg>
                             </a>
                         </div>
 
@@ -380,7 +380,7 @@
 
                         <div class="composition-time">
                             <time class="published" datetime="2017-03-24T18:18">5:40</time>
-                            <div class="more"><svg class="olymp-three-dots-icon"><use xlink:href="/icons/icons.svg#olymp-three-dots-icon"></use></svg>
+                            <div class="more"><svg class="olymp-three-dots-icon"><use xlink:href="/public/icons/icons.svg#olymp-three-dots-icon"></use></svg>
                                 <ul class="more-dropdown">
                                     <li>
                                         <a href="#">Add Song to Player</a>
@@ -402,7 +402,7 @@
                     <h6 class="title">Green Goo’s Playlist</h6>
                     <a href="#" class="more">
 							<span data-toggle="tooltip" data-placement="top" title="" data-original-title="SAVE PLAYLIST">
-								<svg class="olymp-save-playlist-icon"><use xlink:href="/icons/icons.svg#olymp-save-playlist-icon"></use></svg>
+								<svg class="olymp-save-playlist-icon"><use xlink:href="/public/icons/icons.svg#olymp-save-playlist-icon"></use></svg>
 							</span>
                     </a>
                 </div>
@@ -411,7 +411,7 @@
                     <li>
                         <div class="playlist-thumb" data-toggle="tooltip" data-placement="top" title="PLAY / ADD TO PLAYER">
                             <a href="#" class="play-icon">
-                                <svg class="olymp-music-play-icon-big"><use xlink:href="/icons/icons-music.svg#olymp-music-play-icon-big"></use></svg>
+                                <svg class="olymp-music-play-icon-big"><use xlink:href="/public/icons/icons-music.svg#olymp-music-play-icon-big"></use></svg>
                             </a>
                         </div>
 
@@ -422,7 +422,7 @@
 
                         <div class="composition-time">
                             <time class="published" datetime="2017-03-24T18:18">3:22</time>
-                            <div class="more"><svg class="olymp-three-dots-icon"><use xlink:href="/icons/icons.svg#olymp-three-dots-icon"></use></svg>
+                            <div class="more"><svg class="olymp-three-dots-icon"><use xlink:href="/public/icons/icons.svg#olymp-three-dots-icon"></use></svg>
                                 <ul class="more-dropdown">
                                     <li>
                                         <a href="#">Add Song to Player</a>
@@ -439,7 +439,7 @@
                     <li>
                         <div class="playlist-thumb" data-toggle="tooltip" data-placement="top" title="PLAY / ADD TO PLAYER">
                             <a href="#" class="play-icon">
-                                <svg class="olymp-music-play-icon-big"><use xlink:href="/icons/icons-music.svg#olymp-music-play-icon-big"></use></svg>
+                                <svg class="olymp-music-play-icon-big"><use xlink:href="/public/icons/icons-music.svg#olymp-music-play-icon-big"></use></svg>
                             </a>
                         </div>
 
@@ -450,7 +450,7 @@
 
                         <div class="composition-time">
                             <time class="published" datetime="2017-03-24T18:18">5:48</time>
-                            <div class="more"><svg class="olymp-three-dots-icon"><use xlink:href="/icons/icons.svg#olymp-three-dots-icon"></use></svg>
+                            <div class="more"><svg class="olymp-three-dots-icon"><use xlink:href="/public/icons/icons.svg#olymp-three-dots-icon"></use></svg>
                                 <ul class="more-dropdown">
                                     <li>
                                         <a href="#">Add Song to Player</a>
@@ -466,7 +466,7 @@
                     <li>
                         <div class="playlist-thumb" data-toggle="tooltip" data-placement="top" title="PLAY / ADD TO PLAYER">
                             <a href="#" class="play-icon">
-                                <svg class="olymp-music-play-icon-big"><use xlink:href="/icons/icons-music.svg#olymp-music-play-icon-big"></use></svg>
+                                <svg class="olymp-music-play-icon-big"><use xlink:href="/public/icons/icons-music.svg#olymp-music-play-icon-big"></use></svg>
                             </a>
                         </div>
 
@@ -477,7 +477,7 @@
 
                         <div class="composition-time">
                             <time class="published" datetime="2017-03-24T18:18">3:06</time>
-                            <div class="more"><svg class="olymp-three-dots-icon"><use xlink:href="/icons/icons.svg#olymp-three-dots-icon"></use></svg>
+                            <div class="more"><svg class="olymp-three-dots-icon"><use xlink:href="/public/icons/icons.svg#olymp-three-dots-icon"></use></svg>
                                 <ul class="more-dropdown">
                                     <li>
                                         <a href="#">Add Song to Player</a>
@@ -493,7 +493,7 @@
                     <li>
                         <div class="playlist-thumb" data-toggle="tooltip" data-placement="top" title="PLAY / ADD TO PLAYER">
                             <a href="#" class="play-icon">
-                                <svg class="olymp-music-play-icon-big"><use xlink:href="/icons/icons-music.svg#olymp-music-play-icon-big"></use></svg>
+                                <svg class="olymp-music-play-icon-big"><use xlink:href="/public/icons/icons-music.svg#olymp-music-play-icon-big"></use></svg>
                             </a>
                         </div>
 
@@ -504,7 +504,7 @@
 
                         <div class="composition-time">
                             <time class="published" datetime="2017-03-24T18:18">6:17</time>
-                            <div class="more"><svg class="olymp-three-dots-icon"><use xlink:href="/icons/icons.svg#olymp-three-dots-icon"></use></svg>
+                            <div class="more"><svg class="olymp-three-dots-icon"><use xlink:href="/public/icons/icons.svg#olymp-three-dots-icon"></use></svg>
                                 <ul class="more-dropdown">
                                     <li>
                                         <a href="#">Add Song to Player</a>
@@ -520,7 +520,7 @@
                     <li>
                         <div class="playlist-thumb" data-toggle="tooltip" data-placement="top" title="PLAY / ADD TO PLAYER">
                             <a href="#" class="play-icon">
-                                <svg class="olymp-music-play-icon-big"><use xlink:href="/icons/icons-music.svg#olymp-music-play-icon-big"></use></svg>
+                                <svg class="olymp-music-play-icon-big"><use xlink:href="/public/icons/icons-music.svg#olymp-music-play-icon-big"></use></svg>
                             </a>
                         </div>
 
@@ -531,7 +531,7 @@
 
                         <div class="composition-time">
                             <time class="published" datetime="2017-03-24T18:18">5:40</time>
-                            <div class="more"><svg class="olymp-three-dots-icon"><use xlink:href="/icons/icons.svg#olymp-three-dots-icon"></use></svg>
+                            <div class="more"><svg class="olymp-three-dots-icon"><use xlink:href="/public/icons/icons.svg#olymp-three-dots-icon"></use></svg>
                                 <ul class="more-dropdown">
                                     <li>
                                         <a href="#">Add Song to Player</a>
@@ -553,7 +553,7 @@
                     <h6 class="title">Marina V’s Playlist</h6>
                     <a href="#" class="more">
 							<span class="c-green">
-								<svg class="olymp-remove-playlist-icon"><use xlink:href="/icons/icons.svg#olymp-remove-playlist-icon"></use></svg>
+								<svg class="olymp-remove-playlist-icon"><use xlink:href="/public/icons/icons.svg#olymp-remove-playlist-icon"></use></svg>
 							</span>
                     </a>
                 </div>
@@ -564,7 +564,7 @@
                             <img src="/img/playlist11.jpg" alt="thumb-composition">
                             <div class="overlay"></div>
                             <a href="#" class="play-icon">
-                                <svg class="olymp-music-play-icon-big"><use xlink:href="/icons/icons-music.svg#olymp-music-play-icon-big"></use></svg>
+                                <svg class="olymp-music-play-icon-big"><use xlink:href="/public/icons/icons-music.svg#olymp-music-play-icon-big"></use></svg>
                             </a>
                         </div>
 
@@ -575,7 +575,7 @@
 
                         <div class="composition-time">
                             <time class="published" datetime="2017-03-24T18:18">4:02</time>
-                            <div class="more"><svg class="olymp-three-dots-icon"><use xlink:href="/icons/icons.svg#olymp-three-dots-icon"></use></svg>
+                            <div class="more"><svg class="olymp-three-dots-icon"><use xlink:href="/public/icons/icons.svg#olymp-three-dots-icon"></use></svg>
                                 <ul class="more-dropdown">
                                     <li>
                                         <a href="#">Add Song to Player</a>
@@ -594,7 +594,7 @@
                             <img src="/img/playlist12.jpg" alt="thumb-composition">
                             <div class="overlay"></div>
                             <a href="#" class="play-icon">
-                                <svg class="olymp-music-play-icon-big"><use xlink:href="/icons/icons-music.svg#olymp-music-play-icon-big"></use></svg>
+                                <svg class="olymp-music-play-icon-big"><use xlink:href="/public/icons/icons-music.svg#olymp-music-play-icon-big"></use></svg>
                             </a>
                         </div>
 
@@ -605,7 +605,7 @@
 
                         <div class="composition-time">
                             <time class="published" datetime="2017-03-24T18:18">3:54</time>
-                            <div class="more"><svg class="olymp-three-dots-icon"><use xlink:href="/icons/icons.svg#olymp-three-dots-icon"></use></svg>
+                            <div class="more"><svg class="olymp-three-dots-icon"><use xlink:href="/public/icons/icons.svg#olymp-three-dots-icon"></use></svg>
                                 <ul class="more-dropdown">
                                     <li>
                                         <a href="#">Add Song to Player</a>
@@ -623,7 +623,7 @@
                             <img src="/img/playlist13.jpg" alt="thumb-composition">
                             <div class="overlay"></div>
                             <a href="#" class="play-icon">
-                                <svg class="olymp-music-play-icon-big"><use xlink:href="/icons/icons-music.svg#olymp-music-play-icon-big"></use></svg>
+                                <svg class="olymp-music-play-icon-big"><use xlink:href="/public/icons/icons-music.svg#olymp-music-play-icon-big"></use></svg>
                             </a>
                         </div>
 
@@ -634,7 +634,7 @@
 
                         <div class="composition-time">
                             <time class="published" datetime="2017-03-24T18:18">4:36</time>
-                            <div class="more"><svg class="olymp-three-dots-icon"><use xlink:href="/icons/icons.svg#olymp-three-dots-icon"></use></svg>
+                            <div class="more"><svg class="olymp-three-dots-icon"><use xlink:href="/public/icons/icons.svg#olymp-three-dots-icon"></use></svg>
                                 <ul class="more-dropdown">
                                     <li>
                                         <a href="#">Add Song to Player</a>
@@ -652,7 +652,7 @@
                             <img src="/img/playlist14.jpg" alt="thumb-composition">
                             <div class="overlay"></div>
                             <a href="#" class="play-icon">
-                                <svg class="olymp-music-play-icon-big"><use xlink:href="/icons/icons-music.svg#olymp-music-play-icon-big"></use></svg>
+                                <svg class="olymp-music-play-icon-big"><use xlink:href="/public/icons/icons-music.svg#olymp-music-play-icon-big"></use></svg>
                             </a>
                         </div>
 
@@ -663,7 +663,7 @@
 
                         <div class="composition-time">
                             <time class="published" datetime="2017-03-24T18:18">5:27</time>
-                            <div class="more"><svg class="olymp-three-dots-icon"><use xlink:href="/icons/icons.svg#olymp-three-dots-icon"></use></svg>
+                            <div class="more"><svg class="olymp-three-dots-icon"><use xlink:href="/public/icons/icons.svg#olymp-three-dots-icon"></use></svg>
                                 <ul class="more-dropdown">
                                     <li>
                                         <a href="#">Add Song to Player</a>
@@ -681,7 +681,7 @@
                             <img src="/img/playlist15.jpg" alt="thumb-composition">
                             <div class="overlay"></div>
                             <a href="#" class="play-icon">
-                                <svg class="olymp-music-play-icon-big"><use xlink:href="/icons/icons-music.svg#olymp-music-play-icon-big"></use></svg>
+                                <svg class="olymp-music-play-icon-big"><use xlink:href="/public/icons/icons-music.svg#olymp-music-play-icon-big"></use></svg>
                             </a>
                         </div>
 
@@ -692,7 +692,7 @@
 
                         <div class="composition-time">
                             <time class="published" datetime="2017-03-24T18:18">4:09</time>
-                            <div class="more"><svg class="olymp-three-dots-icon"><use xlink:href="/icons/icons.svg#olymp-three-dots-icon"></use></svg>
+                            <div class="more"><svg class="olymp-three-dots-icon"><use xlink:href="/public/icons/icons.svg#olymp-three-dots-icon"></use></svg>
                                 <ul class="more-dropdown">
                                     <li>
                                         <a href="#">Add Song to Player</a>
@@ -714,7 +714,7 @@
                     <h6 class="title">Elaine D’s Playlist</h6>
                     <a href="#" class="more">
 							<span class="c-green">
-								<svg class="olymp-remove-playlist-icon"><use xlink:href="/icons/icons.svg#olymp-remove-playlist-icon"></use></svg>
+								<svg class="olymp-remove-playlist-icon"><use xlink:href="/public/icons/icons.svg#olymp-remove-playlist-icon"></use></svg>
 							</span>
                     </a>
                 </div>
@@ -725,7 +725,7 @@
                             <img src="/img/playlist16.jpg" alt="thumb-composition">
                             <div class="overlay"></div>
                             <a href="#" class="play-icon">
-                                <svg class="olymp-music-play-icon-big"><use xlink:href="/icons/icons-music.svg#olymp-music-play-icon-big"></use></svg>
+                                <svg class="olymp-music-play-icon-big"><use xlink:href="/public/icons/icons-music.svg#olymp-music-play-icon-big"></use></svg>
                             </a>
                         </div>
 
@@ -736,7 +736,7 @@
 
                         <div class="composition-time">
                             <time class="published" datetime="2017-03-24T18:18">5:17</time>
-                            <div class="more"><svg class="olymp-three-dots-icon"><use xlink:href="/icons/icons.svg#olymp-three-dots-icon"></use></svg>
+                            <div class="more"><svg class="olymp-three-dots-icon"><use xlink:href="/public/icons/icons.svg#olymp-three-dots-icon"></use></svg>
                                 <ul class="more-dropdown">
                                     <li>
                                         <a href="#">Add Song to Player</a>
@@ -755,7 +755,7 @@
                             <img src="/img/playlist17.jpg" alt="thumb-composition">
                             <div class="overlay"></div>
                             <a href="#" class="play-icon">
-                                <svg class="olymp-music-play-icon-big"><use xlink:href="/icons/icons-music.svg#olymp-music-play-icon-big"></use></svg>
+                                <svg class="olymp-music-play-icon-big"><use xlink:href="/public/icons/icons-music.svg#olymp-music-play-icon-big"></use></svg>
                             </a>
                         </div>
 
@@ -766,7 +766,7 @@
 
                         <div class="composition-time">
                             <time class="published" datetime="2017-03-24T18:18">8:24</time>
-                            <div class="more"><svg class="olymp-three-dots-icon"><use xlink:href="/icons/icons.svg#olymp-three-dots-icon"></use></svg>
+                            <div class="more"><svg class="olymp-three-dots-icon"><use xlink:href="/public/icons/icons.svg#olymp-three-dots-icon"></use></svg>
                                 <ul class="more-dropdown">
                                     <li>
                                         <a href="#">Add Song to Player</a>
@@ -784,7 +784,7 @@
                             <img src="/img/playlist18.jpg" alt="thumb-composition">
                             <div class="overlay"></div>
                             <a href="#" class="play-icon">
-                                <svg class="olymp-music-play-icon-big"><use xlink:href="/icons/icons-music.svg#olymp-music-play-icon-big"></use></svg>
+                                <svg class="olymp-music-play-icon-big"><use xlink:href="/public/icons/icons-music.svg#olymp-music-play-icon-big"></use></svg>
                             </a>
                         </div>
 
@@ -795,7 +795,7 @@
 
                         <div class="composition-time">
                             <time class="published" datetime="2017-03-24T18:18">4:57</time>
-                            <div class="more"><svg class="olymp-three-dots-icon"><use xlink:href="/icons/icons.svg#olymp-three-dots-icon"></use></svg>
+                            <div class="more"><svg class="olymp-three-dots-icon"><use xlink:href="/public/icons/icons.svg#olymp-three-dots-icon"></use></svg>
                                 <ul class="more-dropdown">
                                     <li>
                                         <a href="#">Add Song to Player</a>
@@ -813,7 +813,7 @@
                             <img src="/img/playlist19.jpg" alt="thumb-composition">
                             <div class="overlay"></div>
                             <a href="#" class="play-icon">
-                                <svg class="olymp-music-play-icon-big"><use xlink:href="/icons/icons-music.svg#olymp-music-play-icon-big"></use></svg>
+                                <svg class="olymp-music-play-icon-big"><use xlink:href="/public/icons/icons-music.svg#olymp-music-play-icon-big"></use></svg>
                             </a>
                         </div>
 
@@ -824,7 +824,7 @@
 
                         <div class="composition-time">
                             <time class="published" datetime="2017-03-24T18:18">3:21</time>
-                            <div class="more"><svg class="olymp-three-dots-icon"><use xlink:href="/icons/icons.svg#olymp-three-dots-icon"></use></svg>
+                            <div class="more"><svg class="olymp-three-dots-icon"><use xlink:href="/public/icons/icons.svg#olymp-three-dots-icon"></use></svg>
                                 <ul class="more-dropdown">
                                     <li>
                                         <a href="#">Add Song to Player</a>
@@ -842,7 +842,7 @@
                             <img src="/img/playlist20.jpg" alt="thumb-composition">
                             <div class="overlay"></div>
                             <a href="#" class="play-icon">
-                                <svg class="olymp-music-play-icon-big"><use xlink:href="/icons/icons-music.svg#olymp-music-play-icon-big"></use></svg>
+                                <svg class="olymp-music-play-icon-big"><use xlink:href="/public/icons/icons-music.svg#olymp-music-play-icon-big"></use></svg>
                             </a>
                         </div>
 
@@ -853,7 +853,7 @@
 
                         <div class="composition-time">
                             <time class="published" datetime="2017-03-24T18:18">5:54</time>
-                            <div class="more"><svg class="olymp-three-dots-icon"><use xlink:href="/icons/icons.svg#olymp-three-dots-icon"></use></svg>
+                            <div class="more"><svg class="olymp-three-dots-icon"><use xlink:href="/public/icons/icons.svg#olymp-three-dots-icon"></use></svg>
                                 <ul class="more-dropdown">
                                     <li>
                                         <a href="#">Add Song to Player</a>
@@ -876,7 +876,7 @@
 
 <div class="ui-block window-popup faqs-popup">
     <a href="" class="icon-close js-close-popup">
-        <svg class="olymp-close-icon"><use xlink:href="/icons/icons.svg#olymp-close-icon"></use></svg>
+        <svg class="olymp-close-icon"><use xlink:href="/public/icons/icons.svg#olymp-close-icon"></use></svg>
     </a>
 
     <div class="ui-block-title">
@@ -1023,7 +1023,7 @@
         <tr>
             <td class="play">
                 <a href="#" class="play-icon">
-                    <svg class="olymp-music-play-icon-big"><use xlink:href="/icons/icons-music.svg#olymp-music-play-icon-big"></use></svg>
+                    <svg class="olymp-music-play-icon-big"><use xlink:href="/public/icons/icons-music.svg#olymp-music-play-icon-big"></use></svg>
                 </a>
             </td>
             <td class="cover">
@@ -1053,7 +1053,7 @@
             </td>
             <td class="remove">
                 <a href="#" class="remove-icon">
-                    <svg class="olymp-close-icon"><use xlink:href="/icons/icons.svg#olymp-close-icon"></use></svg>
+                    <svg class="olymp-close-icon"><use xlink:href="/public/icons/icons.svg#olymp-close-icon"></use></svg>
                 </a>
             </td>
         </tr>
@@ -1061,7 +1061,7 @@
         <tr>
             <td class="play">
                 <a href="#" class="play-icon">
-                    <svg class="olymp-music-play-icon-big"><use xlink:href="/icons/icons-music.svg#olymp-music-play-icon-big"></use></svg>
+                    <svg class="olymp-music-play-icon-big"><use xlink:href="/public/icons/icons-music.svg#olymp-music-play-icon-big"></use></svg>
                 </a>
             </td>
             <td class="cover">
@@ -1091,7 +1091,7 @@
             </td>
             <td class="remove">
                 <a href="#" class="remove-icon">
-                    <svg class="olymp-close-icon"><use xlink:href="/icons/icons.svg#olymp-close-icon"></use></svg>
+                    <svg class="olymp-close-icon"><use xlink:href="/public/icons/icons.svg#olymp-close-icon"></use></svg>
                 </a>
             </td>
         </tr>
@@ -1099,7 +1099,7 @@
         <tr>
             <td class="play">
                 <a href="#" class="play-icon">
-                    <svg class="olymp-music-play-icon-big"><use xlink:href="/icons/icons-music.svg#olymp-music-play-icon-big"></use></svg>
+                    <svg class="olymp-music-play-icon-big"><use xlink:href="/public/icons/icons-music.svg#olymp-music-play-icon-big"></use></svg>
                 </a>
             </td>
             <td class="cover">
@@ -1129,7 +1129,7 @@
             </td>
             <td class="remove">
                 <a href="#" class="remove-icon">
-                    <svg class="olymp-close-icon"><use xlink:href="/icons/icons.svg#olymp-close-icon"></use></svg>
+                    <svg class="olymp-close-icon"><use xlink:href="/public/icons/icons.svg#olymp-close-icon"></use></svg>
                 </a>
             </td>
         </tr>
@@ -1137,7 +1137,7 @@
         <tr>
             <td class="play">
                 <a href="#" class="play-icon">
-                    <svg class="olymp-music-play-icon-big"><use xlink:href="/icons/icons-music.svg#olymp-music-play-icon-big"></use></svg>
+                    <svg class="olymp-music-play-icon-big"><use xlink:href="/public/icons/icons-music.svg#olymp-music-play-icon-big"></use></svg>
                 </a>
             </td>
             <td class="cover">
@@ -1167,7 +1167,7 @@
             </td>
             <td class="remove">
                 <a href="#" class="remove-icon">
-                    <svg class="olymp-close-icon"><use xlink:href="/icons/icons.svg#olymp-close-icon"></use></svg>
+                    <svg class="olymp-close-icon"><use xlink:href="/public/icons/icons.svg#olymp-close-icon"></use></svg>
                 </a>
             </td>
         </tr>
@@ -1175,7 +1175,7 @@
         <tr>
             <td class="play">
                 <a href="#" class="play-icon">
-                    <svg class="olymp-music-play-icon-big"><use xlink:href="/icons/icons-music.svg#olymp-music-play-icon-big"></use></svg>
+                    <svg class="olymp-music-play-icon-big"><use xlink:href="/public/icons/icons-music.svg#olymp-music-play-icon-big"></use></svg>
                 </a>
             </td>
             <td class="cover">
@@ -1205,7 +1205,7 @@
             </td>
             <td class="remove">
                 <a href="#" class="remove-icon">
-                    <svg class="olymp-close-icon"><use xlink:href="/icons/icons.svg#olymp-close-icon"></use></svg>
+                    <svg class="olymp-close-icon"><use xlink:href="/public/icons/icons.svg#olymp-close-icon"></use></svg>
                 </a>
             </td>
         </tr>
@@ -1213,7 +1213,7 @@
         <tr>
             <td class="play">
                 <a href="#" class="play-icon">
-                    <svg class="olymp-music-play-icon-big"><use xlink:href="/icons/icons-music.svg#olymp-music-play-icon-big"></use></svg>
+                    <svg class="olymp-music-play-icon-big"><use xlink:href="/public/icons/icons-music.svg#olymp-music-play-icon-big"></use></svg>
                 </a>
             </td>
             <td class="cover">
@@ -1243,7 +1243,7 @@
             </td>
             <td class="remove">
                 <a href="#" class="remove-icon">
-                    <svg class="olymp-close-icon"><use xlink:href="/icons/icons.svg#olymp-close-icon"></use></svg>
+                    <svg class="olymp-close-icon"><use xlink:href="/public/icons/icons.svg#olymp-close-icon"></use></svg>
                 </a>
             </td>
         </tr>

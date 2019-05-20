@@ -9,10 +9,10 @@
                 <div class="ui-block">
                     <div class="ui-block-title inline-items">
                         <div class="btn btn-control btn-control-small bg-yellow">
-                            <svg class="olymp-trophy-icon"><use xlink:href="/icons/icons.svg#olymp-trophy-icon"></use></svg>
+                            <svg class="olymp-trophy-icon"><use xlink:href="/public/icons/icons.svg#olymp-trophy-icon"></use></svg>
                         </div>
                         <h6 class="title">James’s Featured Video</h6>
-                        <a href="#" class="more"><svg class="olymp-three-dots-icon"><use xlink:href="/icons/icons.svg#olymp-three-dots-icon"></use></svg></a>
+                        <a href="#" class="more"><svg class="olymp-three-dots-icon"><use xlink:href="/public/icons/icons.svg#olymp-three-dots-icon"></use></svg></a>
                     </div>
                 </div>
             </div>
@@ -26,7 +26,7 @@
                     <div class="video-player">
                         <img src="/img/video9.jpg" alt="photo">
                         <a href="https://youtube.com/watch?v=excVFQ2TWig" class="play-video">
-                            <svg class="olymp-play-icon"><use xlink:href="/icons/icons.svg#olymp-play-icon"></use></svg>
+                            <svg class="olymp-play-icon"><use xlink:href="/public/icons/icons.svg#olymp-play-icon"></use></svg>
                         </a>
 
                         <div class="video-content">
@@ -53,7 +53,7 @@
                                     </div>
                                 </div>
 
-                                <div class="more"><svg class="olymp-three-dots-icon"><use xlink:href="/icons/icons.svg#olymp-three-dots-icon"></use></svg>
+                                <div class="more"><svg class="olymp-three-dots-icon"><use xlink:href="/public/icons/icons.svg#olymp-three-dots-icon"></use></svg>
                                     <ul class="more-dropdown">
                                         <li>
                                             <a href="#">Edit Post</a>
@@ -77,18 +77,18 @@
                             <div class="post-additional-info inline-items">
 
                                 <a href="#" class="post-add-icon inline-items">
-                                    <svg class="olymp-heart-icon"><use xlink:href="/icons/icons.svg#olymp-heart-icon"></use></svg>
+                                    <svg class="olymp-heart-icon"><use xlink:href="/public/icons/icons.svg#olymp-heart-icon"></use></svg>
                                     <span>14</span>
                                 </a>
 
                                 <div class="comments-shared">
                                     <a href="#" class="post-add-icon inline-items">
-                                        <svg class="olymp-speech-balloon-icon"><use xlink:href="/icons/icons.svg#olymp-speech-balloon-icon"></use></svg>
+                                        <svg class="olymp-speech-balloon-icon"><use xlink:href="/public/icons/icons.svg#olymp-speech-balloon-icon"></use></svg>
                                         <span>19</span>
                                     </a>
 
                                     <a href="#" class="post-add-icon inline-items">
-                                        <svg class="olymp-share-icon"><use xlink:href="/icons/icons.svg#olymp-share-icon"></use></svg>
+                                        <svg class="olymp-share-icon"><use xlink:href="/public/icons/icons.svg#olymp-share-icon"></use></svg>
                                         <span>27</span>
                                     </a>
                                 </div>
@@ -98,15 +98,15 @@
                             <div class="control-block-button post-control-button">
 
                                 <a href="#" class="btn btn-control">
-                                    <svg class="olymp-like-post-icon"><use xlink:href="/icons/icons.svg#olymp-like-post-icon"></use></svg>
+                                    <svg class="olymp-like-post-icon"><use xlink:href="/public/icons/icons.svg#olymp-like-post-icon"></use></svg>
                                 </a>
 
                                 <a href="#" class="btn btn-control">
-                                    <svg class="olymp-comments-post-icon"><use xlink:href="/icons/icons.svg#olymp-comments-post-icon"></use></svg>
+                                    <svg class="olymp-comments-post-icon"><use xlink:href="/public/icons/icons.svg#olymp-comments-post-icon"></use></svg>
                                 </a>
 
                                 <a href="#" class="btn btn-control">
-                                    <svg class="olymp-share-icon"><use xlink:href="/icons/icons.svg#olymp-share-icon"></use></svg>
+                                    <svg class="olymp-share-icon"><use xlink:href="/public/icons/icons.svg#olymp-share-icon"></use></svg>
                                 </a>
 
                             </div>
@@ -129,14 +129,14 @@
                                             </div>
                                         </div>
 
-                                        <a href="#" class="more"><svg class="olymp-three-dots-icon"><use xlink:href="/icons/icons.svg#olymp-three-dots-icon"></use></svg></a>
+                                        <a href="#" class="more"><svg class="olymp-three-dots-icon"><use xlink:href="/public/icons/icons.svg#olymp-three-dots-icon"></use></svg></a>
 
                                     </div>
 
                                     <p>I had a great time too!! We should do it again!</p>
 
                                     <a href="#" class="post-add-icon inline-items">
-                                        <svg class="olymp-heart-icon"><use xlink:href="/icons/icons.svg#olymp-heart-icon"></use></svg>
+                                        <svg class="olymp-heart-icon"><use xlink:href="/public/icons/icons.svg#olymp-heart-icon"></use></svg>
                                         <span>8</span>
                                     </a>
                                     <a href="#" class="reply">Reply</a>
@@ -155,14 +155,14 @@
                                             </div>
                                         </div>
 
-                                        <a href="#" class="more"><svg class="olymp-three-dots-icon"><use xlink:href="/icons/icons.svg#olymp-three-dots-icon"></use></svg></a>
+                                        <a href="#" class="more"><svg class="olymp-three-dots-icon"><use xlink:href="/public/icons/icons.svg#olymp-three-dots-icon"></use></svg></a>
 
                                     </div>
 
                                     <p>Dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit.</p>
 
                                     <a href="#" class="post-add-icon inline-items">
-                                        <svg class="olymp-heart-icon"><use xlink:href="/icons/icons.svg#olymp-heart-icon"></use></svg>
+                                        <svg class="olymp-heart-icon"><use xlink:href="/public/icons/icons.svg#olymp-heart-icon"></use></svg>
                                         <span>7</span>
                                     </a>
                                     <a href="#" class="reply">Reply</a>
@@ -182,7 +182,7 @@
                                 <textarea class="form-control" placeholder="Press Enter to post..."></textarea>
                                 <div class="add-options-message">
                                     <a href="#" class="js-open-popup options-message" data-popup-target=".update-header-photo">
-                                        <svg class="olymp-camera-icon"><use xlink:href="/icons/icons.svg#olymp-camera-icon"></use></svg>
+                                        <svg class="olymp-camera-icon"><use xlink:href="/public/icons/icons.svg#olymp-camera-icon"></use></svg>
                                     </a>
                                 </div>
                             </div>
@@ -208,7 +208,7 @@
                             <a href="#" class="js-open-popup btn btn-primary btn-md-2" data-popup-target=".update-header-photo">Upload Video  +</a>
                         </div>
 
-                        <a href="#" class="more"><svg class="olymp-three-dots-icon"><use xlink:href="/icons/icons.svg#olymp-three-dots-icon"></use></svg></a>
+                        <a href="#" class="more"><svg class="olymp-three-dots-icon"><use xlink:href="/public/icons/icons.svg#olymp-three-dots-icon"></use></svg></a>
                     </div>
                 </div>
             </div>
@@ -222,11 +222,11 @@
                     <div class="video-player">
                         <img src="/img/video10.jpg" alt="photo">
                         <a href="https://youtube.com/watch?v=excVFQ2TWig" class="play-video">
-                            <svg class="olymp-play-icon"><use xlink:href="/icons/icons.svg#olymp-play-icon"></use></svg>
+                            <svg class="olymp-play-icon"><use xlink:href="/public/icons/icons.svg#olymp-play-icon"></use></svg>
                         </a>
                         <div class="overlay overlay-dark"></div>
 
-                        <div class="more"><svg class="olymp-three-dots-icon"><use xlink:href="/icons/icons.svg#olymp-three-dots-icon"></use></svg></div>
+                        <div class="more"><svg class="olymp-three-dots-icon"><use xlink:href="/public/icons/icons.svg#olymp-three-dots-icon"></use></svg></div>
                     </div>
 
                     <div class="ui-block-content video-content">
@@ -240,11 +240,11 @@
                     <div class="video-player">
                         <img src="/img/video11.jpg" alt="photo">
                         <a href="https://youtube.com/watch?v=excVFQ2TWig" class="play-video play-video--small">
-                            <svg class="olymp-play-icon"><use xlink:href="/icons/icons.svg#olymp-play-icon"></use></svg>
+                            <svg class="olymp-play-icon"><use xlink:href="/public/icons/icons.svg#olymp-play-icon"></use></svg>
                         </a>
                         <div class="overlay overlay-dark"></div>
 
-                        <div class="more"><svg class="olymp-three-dots-icon"><use xlink:href="/icons/icons.svg#olymp-three-dots-icon"></use></svg></div>
+                        <div class="more"><svg class="olymp-three-dots-icon"><use xlink:href="/public/icons/icons.svg#olymp-three-dots-icon"></use></svg></div>
                     </div>
 
                     <div class="ui-block-content video-content">
@@ -258,11 +258,11 @@
                     <div class="video-player">
                         <img src="/img/video12.jpg" alt="photo">
                         <a href="https://youtube.com/watch?v=excVFQ2TWig" class="play-video">
-                            <svg class="olymp-play-icon"><use xlink:href="/icons/icons.svg#olymp-play-icon"></use></svg>
+                            <svg class="olymp-play-icon"><use xlink:href="/public/icons/icons.svg#olymp-play-icon"></use></svg>
                         </a>
                         <div class="overlay overlay-dark"></div>
 
-                        <div class="more"><svg class="olymp-three-dots-icon"><use xlink:href="/icons/icons.svg#olymp-three-dots-icon"></use></svg></div>
+                        <div class="more"><svg class="olymp-three-dots-icon"><use xlink:href="/public/icons/icons.svg#olymp-three-dots-icon"></use></svg></div>
                     </div>
 
                     <div class="ui-block-content video-content">
@@ -276,11 +276,11 @@
                     <div class="video-player">
                         <img src="/img/video13.jpg" alt="photo">
                         <a href="https://youtube.com/watch?v=excVFQ2TWig" class="play-video play-video--small">
-                            <svg class="olymp-play-icon"><use xlink:href="/icons/icons.svg#olymp-play-icon"></use></svg>
+                            <svg class="olymp-play-icon"><use xlink:href="/public/icons/icons.svg#olymp-play-icon"></use></svg>
                         </a>
                         <div class="overlay overlay-dark"></div>
 
-                        <div class="more"><svg class="olymp-three-dots-icon"><use xlink:href="/icons/icons.svg#olymp-three-dots-icon"></use></svg></div>
+                        <div class="more"><svg class="olymp-three-dots-icon"><use xlink:href="/public/icons/icons.svg#olymp-three-dots-icon"></use></svg></div>
                     </div>
 
                     <div class="ui-block-content video-content">
@@ -294,11 +294,11 @@
                     <div class="video-player">
                         <img src="/img/video14.jpg" alt="photo">
                         <a href="https://youtube.com/watch?v=excVFQ2TWig" class="play-video play-video--small">
-                            <svg class="olymp-play-icon"><use xlink:href="/icons/icons.svg#olymp-play-icon"></use></svg>
+                            <svg class="olymp-play-icon"><use xlink:href="/public/icons/icons.svg#olymp-play-icon"></use></svg>
                         </a>
                         <div class="overlay overlay-dark"></div>
 
-                        <div class="more"><svg class="olymp-three-dots-icon"><use xlink:href="/icons/icons.svg#olymp-three-dots-icon"></use></svg></div>
+                        <div class="more"><svg class="olymp-three-dots-icon"><use xlink:href="/public/icons/icons.svg#olymp-three-dots-icon"></use></svg></div>
                     </div>
 
                     <div class="ui-block-content video-content">
@@ -312,11 +312,11 @@
                     <div class="video-player">
                         <img src="/img/video15.jpg" alt="photo">
                         <a href="https://youtube.com/watch?v=excVFQ2TWig" class="play-video play-video--small">
-                            <svg class="olymp-play-icon"><use xlink:href="/icons/icons.svg#olymp-play-icon"></use></svg>
+                            <svg class="olymp-play-icon"><use xlink:href="/public/icons/icons.svg#olymp-play-icon"></use></svg>
                         </a>
                         <div class="overlay overlay-dark"></div>
 
-                        <div class="more"><svg class="olymp-three-dots-icon"><use xlink:href="/icons/icons.svg#olymp-three-dots-icon"></use></svg></div>
+                        <div class="more"><svg class="olymp-three-dots-icon"><use xlink:href="/public/icons/icons.svg#olymp-three-dots-icon"></use></svg></div>
                     </div>
 
                     <div class="ui-block-content video-content">
@@ -330,11 +330,11 @@
                     <div class="video-player">
                         <img src="/img/video16.jpg" alt="photo">
                         <a href="https://youtube.com/watch?v=excVFQ2TWig" class="play-video play-video--small">
-                            <svg class="olymp-play-icon"><use xlink:href="/icons/icons.svg#olymp-play-icon"></use></svg>
+                            <svg class="olymp-play-icon"><use xlink:href="/public/icons/icons.svg#olymp-play-icon"></use></svg>
                         </a>
                         <div class="overlay overlay-dark"></div>
 
-                        <div class="more"><svg class="olymp-three-dots-icon"><use xlink:href="/icons/icons.svg#olymp-three-dots-icon"></use></svg></div>
+                        <div class="more"><svg class="olymp-three-dots-icon"><use xlink:href="/public/icons/icons.svg#olymp-three-dots-icon"></use></svg></div>
                     </div>
 
                     <div class="ui-block-content video-content">
@@ -348,11 +348,11 @@
                     <div class="video-player">
                         <img src="/img/video17.jpg" alt="photo">
                         <a href="https://youtube.com/watch?v=excVFQ2TWig" class="play-video play-video--small">
-                            <svg class="olymp-play-icon"><use xlink:href="/icons/icons.svg#olymp-play-icon"></use></svg>
+                            <svg class="olymp-play-icon"><use xlink:href="/public/icons/icons.svg#olymp-play-icon"></use></svg>
                         </a>
                         <div class="overlay overlay-dark"></div>
 
-                        <div class="more"><svg class="olymp-three-dots-icon"><use xlink:href="/icons/icons.svg#olymp-three-dots-icon"></use></svg></div>
+                        <div class="more"><svg class="olymp-three-dots-icon"><use xlink:href="/public/icons/icons.svg#olymp-three-dots-icon"></use></svg></div>
                     </div>
 
                     <div class="ui-block-content video-content">

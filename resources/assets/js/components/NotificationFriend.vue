@@ -1,6 +1,10 @@
 <template>
     <div class="control-icon more has-items">
-        <a href="#"><svg class="olymp-happy-face-icon"><use xlink:href="/icons/icons.svg#olymp-happy-face-icon"></use></svg></a>
+        <a href="#">
+            <svg class="olymp-happy-face-icon">
+                <use xlink:href="/public/icons/icons.svg#olymp-happy-face-icon"></use>
+            </svg>
+        </a>
         <div class="label-avatar bg-blue" v-if="all_nots_user_request_count > 0">{{ all_nots_user_request_count }}</div>
 
         <div class="more-dropdown more-with-triangle triangle-top-center" v-if="all_nots_user_request_count > 0">

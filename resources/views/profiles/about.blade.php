@@ -10,7 +10,7 @@
                 <div class="ui-block">
                     <div class="ui-block-title">
                         <h6 class="title">Хоббі та інтереси</h6>
-                        <a href="#" class="more"><svg class="olymp-three-dots-icon"><use xlink:href="/icons/icons.svg#olymp-three-dots-icon"></use></svg></a>
+                        <a href="#" class="more"><svg class="olymp-three-dots-icon"><use xlink:href="/public/icons/icons.svg#olymp-three-dots-icon"></use></svg></a>
                     </div>
                     <div class="ui-block-content">
                         <div class="row">
@@ -60,7 +60,7 @@
                 <div class="ui-block">
                     <div class="ui-block-title">
                         <h6 class="title">Робота та освіта</h6>
-                        <a href="#" class="more"><svg class="olymp-three-dots-icon"><use xlink:href="/icons/icons.svg#olymp-three-dots-icon"></use></svg></a>
+                        <a href="#" class="more"><svg class="olymp-three-dots-icon"><use xlink:href="/public/icons/icons.svg#olymp-three-dots-icon"></use></svg></a>
                     </div>
                     <div class="ui-block-content">
                         <div class="row">
@@ -110,7 +110,7 @@
                 <div class="ui-block">
                     <div class="ui-block-title">
                         <h6 class="title">Персональна інформація</h6>
-                        <a href="#" class="more"><svg class="olymp-three-dots-icon"><use xlink:href="/icons/icons.svg#olymp-three-dots-icon"></use></svg></a>
+                        <a href="#" class="more"><svg class="olymp-three-dots-icon"><use xlink:href="/public/icons/icons.svg#olymp-three-dots-icon"></use></svg></a>
                     </div>
                     <div class="ui-block-content">
                         <ul class="widget w-personal-info">
